@@ -1,0 +1,90 @@
+# === PYTHON (Backend) ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+.venv
+
+# === NODE (Frontend) ===
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# === IDE & Editors ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# === Environment Variables ===
+.env
+.env.local
+.env.*.local
+
+# === Logs & Temp Files ===
+*.log
+logs/
+tmp/
+temp/
+
+# === OS ===
+Thumbs.db
+.DS_Store
+
+# === Flask/Django ===
+instance/
+.webassets-cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# === Database ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === Uploads & Cache ===
+uploads/
+cache/
+*.cache
+
+# === IDE cache ===
+.cache/
+.vscode/settings.json
+
+backend/cleaned_files/
+backend/__pycache__/
+backend/uploaded_files/
