@@ -6,21 +6,47 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 import io
 import os
-import shutil
+import json
+import hashlib
 from typing import List, Dict, Any
 from datetime import datetime
 from contextlib import asynccontextmanager
-from data_processor import process_dataset
+
+# Import helpers from your existing processor
+from data_processor import process_dataset, get_correlation_matrix, get_column_stats
 
 # --- Configuration ---
 UPLOAD_DIR = "uploaded_files"
 CLEANED_DIR = "cleaned_files"
+HASH_DB_FILE = "cleaned_file_hashes.json"  # <--- NEW: Stores fingerprints of clean files
+
+# --- Helper: Hash Functions ---
+def load_known_hashes():
+    """Loads the set of known 'clean' file hashes from disk."""
+    if os.path.exists(HASH_DB_FILE):
+        try:
+            with open(HASH_DB_FILE, "r") as f:
+                return set(json.load(f))
+        except:
+            return set()
+    return set()
+
+def save_new_hash(file_hash):
+    """Saves a new 'clean' file hash to disk."""
+    hashes = load_known_hashes()
+    hashes.add(file_hash)
+    with open(HASH_DB_FILE, "w") as f:
+        json.dump(list(hashes), f)
+
+def calculate_hash(content: bytes) -> str:
+    """Calculates the SHA-256 fingerprint of file content."""
+    return hashlib.sha256(content).hexdigest()
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     os.makedirs(UPLOAD_DIR, exist_ok=True)
     os.makedirs(CLEANED_DIR, exist_ok=True)
-    print("InfoPulse AI Backend is running.")
+    print("InfoPulse AI Backend is running...")
     yield
 
 app = FastAPI(lifespan=lifespan)
@@ -47,7 +73,7 @@ class Insights(BaseModel):
     numeric_columns: List[str]
     generated_sql: str
     column_stats: List[Dict[str, Any]]
-    correlation_matrix: List[Dict[str, Any]] # NEW: Field for Heatmap data
+    correlation_matrix: List[Dict[str, Any]]
 
 class DataResponse(BaseModel):
     request_id: str
@@ -69,6 +95,67 @@ async def upload_file(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to read file: {e}")
 
+    # --- NEW: Check if file is already clean ---
+    incoming_hash = calculate_hash(file_content)
+    known_hashes = load_known_hashes()
+    
+    is_already_clean = incoming_hash in known_hashes
+
+    if is_already_clean:
+        print(f"File {file.filename} identified as already clean. Skipping processing.")
+        
+        # Load the clean data strictly for stats/charts (No cleaning applied)
+        try:
+            if file.filename.endswith('.csv'):
+                df = pd.read_csv(io.BytesIO(file_content))
+            else:
+                df = pd.read_excel(io.BytesIO(file_content))
+        except:
+             df = pd.read_csv(io.BytesIO(file_content), encoding='latin1')
+
+        # Prepare the "Already Clean" response
+        rows_count = len(df)
+        numeric_cols = df.select_dtypes(include=[np.number]).columns.tolist()
+        preview = df.head(50).replace({np.nan: None}).to_dict(orient='records')
+        
+        # We manually generate stats for the frontend, but claim 0 errors
+        insights = Insights(
+            request_id=request_id,
+            rows_original=rows_count,
+            rows_cleaned=rows_count,
+            anomalies_detected=0,      # Force 0
+            duplicates_removed=0,      # Force 0
+            pii_masked=0,              # Force 0
+            quality_score=100.0,       # Perfect Score
+            summary="✨ This file has already been processed by InfoPulse AI. No further cleaning was required.",
+            logs=[
+                "File fingerprint matched known clean dataset.",
+                "Skipped anomaly detection pipeline.",
+                "Skipped PII masking pipeline.",
+                "Data loaded directly for visualization."
+            ],
+            numeric_columns=numeric_cols,
+            generated_sql="-- File was already clean; no transformation SQL generated.",
+            column_stats=get_column_stats(df),
+            correlation_matrix=get_correlation_matrix(df)
+        )
+        
+        # Save the file to disk anyway so Download works
+        uploaded_filepath = os.path.join(UPLOAD_DIR, f"{request_id}{os.path.splitext(file.filename)[1]}")
+        cleaned_filepath = os.path.join(CLEANED_DIR, f"{request_id}_cleaned.csv")
+        
+        with open(uploaded_filepath, "wb") as f:
+            f.write(file_content)
+        df.to_csv(cleaned_filepath, index=False)
+        
+        return DataResponse(
+            request_id=request_id,
+            insights=insights,
+            preview_original=preview,
+            preview_cleaned=preview
+        )
+
+    # --- NORMAL PROCESSING (If file is NOT known) ---
     file_extension = os.path.splitext(file.filename)[1].lower()
     uploaded_filepath = os.path.join(UPLOAD_DIR, f"{request_id}{file_extension}")
     
@@ -76,12 +163,18 @@ async def upload_file(
         with open(uploaded_filepath, "wb") as buffer:
             buffer.write(file_content)
 
-        # Process Data
+        # Run the cleaning pipeline
         df_cleaned, insights_dict, preview_original, preview_cleaned = process_dataset(
             file_content, 
             file.filename, 
             mask_pii
         )
+        
+        # --- NEW: Save the Hash of the RESULT ---
+        # We convert the CLEANED data to bytes to get its fingerprint
+        cleaned_csv_str = df_cleaned.to_csv(index=False)
+        cleaned_hash = calculate_hash(cleaned_csv_str.encode('utf-8'))
+        save_new_hash(cleaned_hash)
         
         insights = Insights(request_id=request_id, **insights_dict)
     
