@@ -1,4 +1,6 @@
-# === PYTHON (Backend) ===
+# ==============================
+# PYTHON (Backend)
+# ==============================
 __pycache__/
 *.py[cod]
 *$py.class
@@ -22,12 +24,26 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Virtual Environments (DO NOT COMMIT)
 venv/
 ENV/
 env/
 .venv
+backend/venv/
 
-# === NODE (Frontend) ===
+# ==============================
+# BACKEND RUNTIME FILES
+# ==============================
+backend/__pycache__/
+backend/uploaded_files/
+
+# ❌ DO NOT ignore cleaned_files
+# cleaned_files/  <-- intentionally NOT ignored
+
+# ==============================
+# NODE (Frontend) – safe to keep
+# ==============================
 node_modules/
 npm-debug.log
 yarn-error.log
@@ -36,7 +52,9 @@ yarn.lock
 dist/
 build/
 
-# === IDE & Editors ===
+# ==============================
+# IDE & Editors
+# ==============================
 .vscode/
 .idea/
 *.swp
@@ -49,42 +67,43 @@ build/
 .pydevproject
 .settings/
 
-# === Environment Variables ===
+# ==============================
+# Environment Variables
+# ==============================
 .env
 .env.local
 .env.*.local
 
-# === Logs & Temp Files ===
+# ==============================
+# Logs & Temp Files
+# ==============================
 *.log
 logs/
 tmp/
 temp/
 
-# === OS ===
+# ==============================
+# OS Files
+# ==============================
 Thumbs.db
 .DS_Store
 
-# === Flask/Django ===
-instance/
-.webassets-cache
+# ==============================
+# Testing / Coverage
+# ==============================
 .pytest_cache/
 .coverage
 htmlcov/
 
-# === Database ===
+# ==============================
+# Database files
+# ==============================
 *.db
 *.sqlite
 *.sqlite3
 
-# === Uploads & Cache ===
-uploads/
-cache/
+# ==============================
+# Cache files
+# ==============================
 *.cache
-
-# === IDE cache ===
 .cache/
-.vscode/settings.json
-
-backend/cleaned_files/
-backend/__pycache__/
-backend/uploaded_files/

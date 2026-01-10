@@ -1,0 +1,20 @@
+# Use lightweight Python image
+FROM python:3.10-slim
+
+# Set working directory
+WORKDIR /app
+
+# Copy requirements first (for caching)
+COPY requirements.txt .
+
+# Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy all backend files
+COPY . .
+
+# Expose port (Render provides PORT dynamically)
+EXPOSE 8000
+
+# Start the FastAPI app
+CMD ["python", "main.py"]

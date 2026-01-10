@@ -1,0 +1,381 @@
+PatientID,VisitDate,DOB,PatientName,Gender,Age,WeightKg,HeightCm,BloodPressure,HeartRate,Diagnosis,MedPrescribed,DosageMg,BillingAmount,Insurance,FollowUp,Allergies,Notes,LabResult1,LabResult2
+P200000,2024-04-15,1960-04-08,Patient Mxfpb,M,71,71.7,117.7,144/70,77,Diabetes,Meda,50,5282.51,No,7 Days,Nuts,Clinicalnote Akensrthaeyb H,77.74,122.64
+P200001,2023-07-06,1960-07-12,Patient R Yeallopkz,Other,13,47.8,135.9,98/69,90,Asthma,Medb,100,4980.62,Yes,1 Month,Pollen,Clinicalnote Oqhxivzmrnefpz,37.24,104.66
+P200002,2023-10-04,1960-04-08,Patient Hnaflzp,M,34,3.0,63.4,119/77,87,Migraine,Medb,20,14972.26,No,No,Unknown,Clinicalnote Fyjoljwgarcjcmx,54.86,167.31
+P200003,2023-10-04,1960-12-12,Patient Lczfqberqvxs,M,77,25.1,186.4,142/71,70,Cold,Medb,100,8588.1,No,No,Nuts,Clinicalntte Bhcpshcehr,76.59,27.74
+P200004,2023-10-04,1960-09-19,Patient Goasj,M,14,19.9,77.8,115/99,101,Migraine,Meda,20,10314.7,Yes,7 Days,Unknown,Clinicalnote Bhttpdyrhlmw,9.93,105.23
+P200005,2024-01-28,1960-04-08,Patient Zrqehn,F,64,6.6,64.1,116/75,61,Fracture,Medb,5,335.66,No,14 Days,Nuts,Clinicalnote Uuwxszdlueergcv,44.86,161.76
+P200006,2024-01-28,1960-09-19,Patient Ddupxcbojmece,M,40,31.3,187.1,108/95,99,Migraine,Medb,50,9537.22,Yes,No,Penicillin,Clinicalnote Lskvdbenflb U,5.25,35.86
+P200007,2023-12-18,1960-09-19,Patient Kelboiswckae,F,86,24.4,67.6,115/64,69,Diabetes,Medd,5,4920.85,No,14 Days,Pollen,Clinicalnote Pavrqnogjsaojqa,50.14,31.46
+P200008,2024-05-20,1960-04-08,Patient Ptkid,F,84,36.1,104.2,98/60,63,Fracture,Medb,50,7248.0,No,14 Days,Nuts,Clinicalnote Xyagzbfewcko,36.68,49.17
+P200009,2024-02-25,1960-03-27,Patient Sjexcixrnskcfbk,M,3,11.8,76.0,150/84,121,Flu,Mede,5,3104.96,Yes,14 Days,Dust,Clinicalnote Bxzh Yxdczht,74.99,9.67
+P200010,2024-03-11,1960-09-19,Patient Cevirebtkc,M,26,16.6,124.1,116/69,55,Cold,Medd,10,8744.1,No,14 Days,Penicillin,Clinicalnote Dysbf,54.48,176.32
+P200011,2023-08-01,1960-08-23,Patient Yaukzrm,M,19,76.4,180.7,130/85,96,Flu,Medc,5,6748.89,No,No,Dust,Clinicalnote Ltmftmh,20.7,222.81
+P200012,2023-11-01,1960-10-17,Patient Lgmgnfvh,Other,49,94.4,120.8,113/75,87,Hypertension,Mede,100,3950.14,No,7 Days,Pollen,Clinicalnote Zatvrjl Dh,58.5,216.42
+P200013,2024-04-06,1960-07-12,Patient Lgcgcu,M,89,81.3,68.7,129/83,109,Cold,Mede,5,2605.73,No,14 Days,Unknown,Clinicalnote Uerubqmtjxdnxcl,58.29,66.43
+P200014,2024-03-11,1960-09-19,Patient Vosmmncagtz,F,7,115.3,104.4,152/91,59,Fracture,Meda,10,2800.33,No,No,Nuts,Clinicalnote Bpuydnedwrwo,32.21,148.74
+P200015,2023-07-05,1960-01-28,Patient Md Goydvd,M,32,95.6,134.5,177/64,72,Asthma,Mede,100,9741.31,Yes,No,Penicillin,Clinicalnote Fwcfquqjr,47.12,55.35
+P200016,2023-11-03,1960-10-10,Patient Shnmyelubz,Other,80,57.8,101.3,174/103,74,Covid,Mede,20,4620.07,No,No,Pollen,Clinicalnote Tyhuiszuac,36.1,153.96
+P200017,2023-11-01,1960-07-12,Patient Uttejfuywx,F,46,105.8,73.2,156/102,60,Hypertension,Medb,50,9370.46,No,1 Month,Nuts,Clinicalnote Fujtkml,56.81,149.42
+P200018,2023-11-03,1960-07-12,Patient Bo Omubbdxssahk,Other,59,87.7,160.3,176/73,75,Fracture,Medb,5,13625.58,No,1 Month,Penicillin,Clinicalnote Zfansgsabtg,56.49,10.76
+P200019,2023-12-26,1960-10-17,Patient Ekoepgwzclbijp,M,19,98.3,96.7,100/100,128,Cold,Mede,10,423.44,No,No,Unknown,Clinicalnotz Eklpczugkletf,14.37,97.92
+P200020,2023-10-04,1960-10-10,Patient Fzwoctonihnqap,Other,87,63.4,76.8,115/108,124,Fracture,Medc,5,12647.61,Yes,1 Month,Nuts,Clinicalnote Rwqanhi,80.23,54.16
+P200021,2023-10-04,1960-03-31,Patient Clyzpact,Other,14,112.8,71.3,156/70,53,Fracture,Mede,5,13802.0,No,14 Days,Penicillin,Clinicalnote Kgidwlcsoe Kq,22.99,111.39
+P200022,2024-03-08,1960-12-08,Patient H Zg G,Other,52,49.6,163.7,123/95,112,Asthma,Mede,50,6796.66,No,No,Nuts,Clinicalnote Hojuzfymlnjq,86.23,64.63
+P200023,2024-01-28,1960-04-08,Patient Kvmjvamfbcsp,F,89,59.1,171.9,148/61,88,Flu,Medb,5,1009.37,No,1 Month,Unknown,Clinicalnote Rrhkkudjvbidu,3.65,163.35
+P200025,2023-10-04,1960-11-25,Patient Sqkha,M,64,4.6,193.9,158/83,89,Flu,Medc,20,4142.63,Yes,7 Days,Pollen,Clinicalnote Tvsissjp,93.52,131.35
+P200026,2023-11-06,1960-07-12,Patient Gxdcbvfffp,Other,32,44.3,76.1,131/82,50,Flu,Medb,10,4091.57,Yes,14 Days,Unknown,Clinicalnote Bhxgv,45.96,107.07
+P200027,2024-01-09,1960-03-18,Patient Vvezzgwdc,Other,28,13.9,107.1,161/101,52,Migraine,Medb,20,10556.58,No,No,Dust,Clinicalnote Ndfwrikqjqpt,70.95,67.46
+P200028,2023-06-01,1960-07-12,Patient Kovexytjrdl,Other,77,78.0,176.3,129/80,119,Hypertension,Medc,50,14318.54,No,No,Dust,Clinicalnote Pfvdiyew,41.05,81.01
+P200029,2023-09-19,1960-10-31,Patient Iqouaowkoev,F,28,41.1,146.7,113/62,82,Migraine,Medd,50,2185.77,No,7 Days,Dust,Clinicalnote Jiguflelmqque,78.19,124.37
+P200030,2024-04-06,1960-08-17,Patient Qrgliofvp,M,47,29.6,102.4,135/102,93,Flu,Medc,50,13607.77,No,No,Nuts,Clinicalnote Ahtgcxhouaqmbl,95.63,92.45
+P200031,2023-10-04,1960-04-08,Patient Plsaehglnyb Ugz,Other,28,41.5,96.2,133/76,108,Flu,Meda,5,13932.74,No,No,Unknown,Clinicalnote Egapvszmo,57.62,226.15
+P200032,2023-10-04,1960-10-10,Patient Izkbvxq,F,42,50.2,137.0,117/99,126,Covid,Medc,10,13643.92,Yes,14 Days,Nuts,Clinicalnote Gestsfev,53.66,4.37
+P200033,2024-01-10,1960-12-08,Patient Ymidat,Other,82,15.2,78.0,160/72,54,Diabetes,Medd,5,3194.81,Yes,14 Days,Penicillin,Clinicalnote Yvpvfhw,1.52,116.08
+P200034,2024-01-10,1960-09-19,Patient Zstbusdwcfbxcu,M,53,56.5,103.2,105/69,79,Covid,Medc,5,1049.67,Yes,1 Month,Penicillin,Clinicalnote Dqziq,50.69,179.29
+P200035,2024-02-13,1960-10-17,Patient Fhumft,M,48,109.7,159.0,147/75,115,Fracture,Meda,10,2272.89,Yes,7 Days,Penicillin,Clinicalnote K Lcoxizg,97.35,154.96
+P200036,2024-05-23,1960-04-08,Patient  Fqyk,M,31,61.0,106.6,114/95,54,Flu,Meda,5,7640.95,Yes,14 Days,Unknown,Clinicalnote Xywnnfeylseri,10.97,200.91
+P200037,2024-05-06,1960-01-01,Patient Damisrhkyt,M,1,7.5,108.2,148/107,90,Diabetes,Meda,50,6700.55,No,14 Days,Pollen,Clinicalnote Nbvbcfp,35.55,184.07
+P200038,2023-07-26,1960-08-20,Patient Mbpwdzqrkvccgyw,M,33,62.3,133.6,154/66,77,Fracture,Medd,20,3241.34,Yes,1 Month,Unknown,Clinicalnote Xkfmygfvhn E,14.95,207.05
+P200039,2023-10-04,1960-07-12,Patient Ldrxptkdovy,Other,41,16.6,140.7,113/87,112,Fracture,Medb,5,8360.2,Yes,No,Dust,Clinicalnote Lvxdr,86.37,30.02
+P200040,2023-07-26,1960-04-08,Patient Ubvgp,F,37,73.5,59.9,141/87,107,Covid,Medc,10,12308.41,Yes,No,Pollen,Clinicalnote Bnn Zafh,36.15,64.75
+P200041,2024-02-18,1960-07-12,Patient Sshvq,Other,80,115.4,125.3,100/96,94,Migraine,Mede,10,3202.25,No,14 Days,Penicillin,Clinicalnote Dmihwe,72.89,83.26
+P200042,2023-10-04,1960-09-19,Patient Mnljcgvcdhv,M,63,3.4,190.4,97/94,93,Covid,Medd,100,8316.68,Yes,7 Days,Pollen,Clinicalnote Ndten,60.23,38.94
+P200043,2024-02-13,1960-07-12,Patient Hxbdoghctihdgtz,F,84,105.8,74.8,170/109,109,Diabetes,Medd,50,2741.58,Yes,No,Nuts,Clinicalfote T G Pguxo,78.36,113.9
+P200044,2024-02-02,1960-09-19,Patient Rhdmp,F,31,83.8,111.0,125/60,76,Asthma,Medb,10,1497.84,Yes,7 Days,Dust,Clinicalnote Lxrsruweepavea,16.56,178.22
+P200045,2023-11-29,1960-12-08,Patient Atblvrr,Other,22,77.2,73.4,131/88,93,Cold,Medc,100,9398.25,Yes,1 Month,Nuts,Clinicalnote Pcqzmqj Iqwmzal,21.13,61.4
+P200046,2023-09-15,1960-06-09,Patient Iyxnhqskc,F,55,28.8,80.6,163/80,120,Migraine,Medd,50,13951.08,No,No,Unknown,Clinicalnote Irdtollbm,8.4,188.38
+P200047,2023-10-04,1960-12-08,Patient Awywd,F,30,115.3,117.8,100/80,51,Diabetes,Medb,20,3927.38,No,14 Days,Penicillin,Clinicalnote Glfjjqnrzuffxhm,15.55,118.86
+P200048,2023-10-04,1960-11-22,Patient Zusgcerdgqlzbc,Other,51,69.9,110.8,93/66,122,Flu,Medc,5,7051.71,No,1 Month,Nuts,Clinicalnote Brdelwwvtdvky,94.57,202.58
+P200049,2024-04-30,1960-07-12,Patient Dbihmgkxcmj,M,37,56.6,170.4,162/88,88,Diabetes,Medc,10,4435.41,No,No,Nuts,Clinicalnote Tznlbf,83.39,234.17
+P200050,2024-04-06,1960-04-24,Patient Xrqpcqgjcucfnm,Other,20,89.3,183.1,179/91,84,Fracture,Mede,5,465.3,No,7 Days,Unknown,Clinicalnote Wldgcu,20.78,114.07
+P200051,2023-07-26,1960-04-08,Patient Sjfvckygk,M,27,14.4,87.8,175/68,52,Covid,Medc,50,7540.11,Yes,No,Pollen,Clinicalnote Urvxgpmoqqzth,71.04,10.16
+P200052,2023-11-29,1960-10-03,Patient Evzpvat,F,37,42.9,111.4,144/71,63,Asthma,Medb,100,8630.27,Yes,7 Days,Dust,Clinicalnote Voqyjvozdut,45.61,196.88
+P200054,2023-11-03,1960-04-08,Patient Dvcgkiv,M,71,50.4,157.5,99/99,83,Hypertension,Medc,100,8809.53,No,7 Days,Penicillin,Clinicalnote Mmvimwiwydcvirz,0.06,211.51
+P200055,2023-11-19,1960-04-08,Patient Wbtmmysolwuem,M,81,16.2,197.6,92/65,63,Migraine,Meda,50,12642.71,No,14 Days,Penicillin,Clinicalnote Npoucrdistgk,15.57,152.88
+P200056,2023-10-04,1960-09-19,Patient Vtxqfhgm,Other,82,43.0,138.7,110/107,91,Hypertension,Medd,100,9336.66,Yes,1 Month,Pollen,Clinicalnote Ngahbzfsh,65.32,56.98
+P200057,2024-01-28,1960-08-25,Patient Mzbuydumxkrna,F,18,57.2,129.0,168/95,68,Flu,Medd,20,9528.73,Yes,14 Days,Penicillin,Clinicalnote Skhmnykxjzd,78.24,172.85
+P200058,2024-04-16,1960-07-12,Patient Ehre Zxsagli,Other,43,20.7,154.4,153/75,113,Hypertension,Mede,5,14562.41,No,1 Month,Pollen,Clinicalnote Onfvyzt,60.62,173.25
+P200059,2023-12-11,1960-07-12,Patient Nmzmrofgj,M,36,92.5,159.2,156/84,104,Migraine,Medc,10,2891.01,Yes,7 Days,Penicillin,Clinicalnote Xxvfimpt,97.89,83.88
+P200060,2024-02-06,1960-04-08,Patient Gcjefxyu,F,68,26.1,171.5,104/67,73,Flu,Meda,5,3657.9,No,1 Month,Dust,Clinicalnote Wfqupetm,79.88,69.15
+P200061,2023-10-04,1960-02-26,Patient Lrgldhevglfwa,F,87,53.2,82.6,158/108,89,Hypertension,Medb,100,7631.57,No,7 Days,Dust,Clinicalnote Qozdk Slzluxume,45.69,130.12
+P200062,2024-04-15,1960-12-08,Patient Tqrwnrxjtvpznn,F,26,36.2,73.5,127/70,115,Fracture,Meda,100,13838.5,Yes,1 Month,Dust,Clinicalnote Hzecn Ecmsjkr,80.01,7.66
+P200063,2023-10-04,1960-12-08,Patient Sdofswrhaeaqxby,M,34,16.9,59.1,135/81,75,Fracture,Medb,5,11847.21,Yes,1 Month,Nuts,Clinicalnote Yvidl,60.89,162.94
+P200064,2024-02-17,1960-12-08,Patient Nyxsaqoj,Other,25,83.0,85.8,114/99,111,Asthma,Medb,50,13522.4,No,No,Penicillin,Clinicalnote Wpjzbnccgq,15.18,107.07
+P200065,2023-10-04,1960-07-01,Patient Bsxmyu,M,49,108.9,198.0,122/77,100,Cold,Medd,20,7976.58,Yes,1 Month,Dust,Clinicalnote Nlkdwnnsxv,7.3,244.55
+P200066,2023-12-16,1960-09-13,Patient Toudwydpgom,M,18,116.7,151.1,149/103,90,Migraine,Medc,5,4818.8,Yes,1 Month,Nuts,Clinicalnote Eioqsfnsggjsurc,76.77,178.07
+P200067,2024-03-11,1960-07-12,Patient Kfwt Ceymbceho,F,4,9.5,178.3,97/63,124,Covid,Medc,10,9539.62,Yes,1 Month,Dust,Clinicalnote Hpzewwbzpe,90.11,230.61
+P200068,2023-07-26,1960-09-19,Patient Peznp,F,59,105.5,59.1,151/102,55,Cold,Mede,10,7067.05,Yes,14 Days,Penicillin,Clinicalnote Qwjqtmlpzgqyvtc,15.5,106.69
+P200069,2023-07-15,1960-07-12,Patient Iqfhef,M,10,93.7,191.2,138/90,86,Cold,Medd,100,9834.03,Yes,14 Days,Unknown,Clinicalnote Tktdl,11.48,170.01
+P200070,2024-01-17,1960-09-19,Patient Hgryjmr,F,37,117.2,183.7,111/63,59,Fracture,Medc,50,5740.95,No,1 Month,Unknown,Clinicalnote Pggzdcfzcmlt,78.94,94.17
+P200071,2024-01-23,1960-12-08,Patient Eggdeacqhfm,M,15,56.4,191.3,124/65,85,Asthma,Medb,5,6686.37,No,1 Month,Nuts,Clinicalnote Ygflp,44.5,198.29
+P200072,2024-01-28,1960-01-01,Patient Cwevvwnm,F,37,74.4,99.6,117/105,129,Diabetes,Medc,50,5904.21,Yes,14 Days,Nuts,Clinicalnote Bypfllzc,81.59,111.78
+P200073,2023-10-04,1960-07-12,Patwent Lngaak,F,45,41.4,157.2,98/89,72,Cold,Medc,50,12304.53,Yes,1 Month,Pollen,Clinicalnote Oglcz,74.13,26.66
+P200074,2024-04-30,1960-07-12,Patient  Uqiwkvkxoocyp,Other,14,89.8,50.7,110/60,124,Asthma,Medc,10,10689.19,Yes,7 Days,Dust,Clinicalnote Icpgiocpaej,87.94,34.35
+P200075,2023-11-03,1960-04-08,Patient Logxpuctk,M,70,16.9,108.0,124/75,62,Covid,Medd,10,14098.03,No,14 Days,Pollen,Clinicalnote Kjuoejgh,8.04,72.48
+P200076,2023-11-06,1960-09-19,Patient Epqpy,F,39,83.8,103.1,108/83,60,Diabetes,Medd,50,1668.4,No,1 Month,Pollen,Clinicalnote Vfqiu,51.8,156.73
+P200077,2023-06-09,1960-07-05,Patient Vzjqqpc,F,63,66.7,140.6,165/105,129,Fracture,Medd,100,6644.76,Yes,No,Nuts,Clinicalnote Vhexa,22.78,25.2
+P200078,2024-01-24,1960-07-12,Patient Zadddostwi,M,20,49.9,53.3,153/76,114,Covid,Meda,5,4166.77,Yes,No,Pollen,Clinicalnote Llhjcbtmzutazg,77.86,5.61
+P200079,2023-07-26,1960-12-28,Patient Ozoshwmkq Ztq,F,44,83.8,176.8,103/79,104,Diabetes,Mede,10,14054.0,Yes,No,Dust,Clinicalnote Gpppmv,80.63,62.36
+P200080,2023-11-19,1960-07-12,Patient Ccovel,Other,61,87.2,152.6,105/106,72,Diabetes,Medb,10,11294.78,Yes,1 Month,Unknown,Clinicalnote Huyhk,16.98,188.58
+P200081,2024-01-28,1960-07-12,Patient Izukkcpgpylbf,F,43,19.1,185.0,151/106,87,Diabetes,Medc,20,4572.24,Yes,14 Days,Dust,Clinicalnote Etqdfqzdwucrqrr,11.78,82.86
+P200082,2024-01-28,1960-07-12,Patient Tdeqmmypf,F,23,67.3,98.2,104/66,128,Hypertension,Medd,5,11550.63,Yes,No,Unknown,Clinicalnote Hzyohicjdafyl,17.27,75.9
+P200083,2024-01-28,1960-01-10,Patient Ocdmddhkpzx,Other,87,51.7,158.6,108/92,105,Migraine,Mede,50,5377.15,No,No,Penicillin,Clinicalnote Duyofdfqhkfcn,86.64,50.65
+P200084,2023-11-03,1960-09-19,Patient Kc Nfbvnh,M,6,32.2,150.4,121/102,64,Asthma,Medd,20,10356.68,Yes,14 Days,Unknown,Clinicalnote Cxvclbmts,49.18,196.34
+P200085,2023-07-20,1960-11-20,Patient Wxvdiglatpzp,M,82,85.3,190.4,152/76,118,Cold,Medb,5,10996.87,No,No,Penicillin,Clinicalnote Wdtrrrkk,68.33,53.99
+P200086,2024-02-18,1960-12-22,Patient Bwwkjbk,M,65,20.4,119.3,171/70,65,Asthma,Mede,100,3354.74,Yes,1 Month,Unknown,Clinicalnote Urvaiyh,68.48,154.4
+P200087,2023-11-29,1960-01-11,Patient Vqulsn,M,62,112.8,119.4,125/72,55,Fracture,Medd,20,3402.22,Yes,7 Days,Penicillin,Clinicalnote Jqsdvbamwlt,77.93,238.89
+P200088,2023-11-01,1960-07-03,Patient Nbbppofvt,M,51,92.2,51.4,119/83,67,Cold,Mede,100,5092.08,No,14 Days,Unknown,Clinicalnote Hrkyhfyjs,56.16,229.54
+P200089,2024-04-06,1960-10-10,Patient Cwfvbwv,M,8,88.2,189.1,163/64,71,Fracture,Medb,50,1142.74,Yes,7 Days,Nuts,Clinicalnote Gdwyv,45.41,106.66
+P200091,2023-11-03,1960-10-23,Patient Ohpdgzyn,F,52,4.6,115.7,178/89,114,Hypertension,Medd,50,8829.98,No,7 Days,Penicillin,Clinicalnote Bslftsgnz,9.81,24.34
+P200092,2024-03-11,1960-07-12,Patient Lnawyioupk,M,16,88.9,149.7,101/66,53,Cold,Medd,5,7640.95,Yes,7 Days,Nuts,Clinicalnote Wkzwnnr Mgnlmq,22.24,22.63
+P200094,2023-10-04,1960-09-19,Patient Mrobmqfngtya,F,10,86.5,126.7,162/67,74,Covid,Mede,20,3478.3,No,No,Pollen,Clinicalnote By Zeytj,26.59,168.19
+P200095,2024-01-28,1960-07-12,Patient Ajsvizic,M,23,64.9,119.6,123/94,119,Flu,Mede,50,1178.89,Yes,7 Days,Penicillin,Clinicalnote Dlzhras,29.67,97.44
+P200096,2023-09-17,1960-11-22,Patient Ewwfdbnhnbm,Other,62,52.0,88.2,155/104,101,Diabetes,Medb,10,9268.86,Yes,No,Dust,Clinicalnote Ryjkvnnxwpx Jl,9.77,215.19
+P200097,2023-09-25,1960-10-12,Patient Wxipz,Other,83,32.4,137.3,106/93,58,Covid,Mede,100,9057.44,Yes,7 Days,Penicillin,Clinicalnote Pyqyhzrj,17.69,206.14
+P200098,2023-12-11,1960-02-26,Patient Hmzyyvyq,Other,65,25.1,100.7,173/73,56,Asthma,Mede,50,2935.96,No,No,Pollen,Clinicalnote Kywgbzpljyt,13.52,51.08
+P200099,2023-10-04,1960-08-23,Patient Yzesg,Other,13,74.7,81.8,107/98,84,Cold,Medb,50,11894.08,No,1 Month,Dust,Clinicalnote Cqlp Wkz,38.35,62.45
+P200100,2023-09-26,1960-10-10,Patient Govoqswtjf,M,31,69.3,144.1,160/104,96,Flu,Meda,100,13799.81,No,14 Days,Dust,Clinicalnote Qfhujctvuncs,88.52,196.33
+P200101,2023-07-06,1960-01-10,Patient Jqkokzamf,M,85,93.8,165.6,131/89,86,Flu,Meda,50,3075.63,Yes,14 Days,Unknown,Clinicalnote Ncxnkeg,13.84,156.32
+P200102,2023-11-03,1960-01-27,Patient Kiah  Is,F,69,99.9,86.5,106/82,99,Hypertension,Medb,20,6870.68,No,14 Days,Dust,Clinicalnote Jbsynajauda,74.09,135.81
+P200103,2024-02-08,1960-04-08,Patient Wwcewekcepvsdk,F,12,62.2,170.5,105/87,96,Hypertension,Medd,5,10772.02,No,14 Days,Penicillin,Clinicalnote Pbuhuzfycowqlq,9.55,114.38
+P200104,2023-10-04,1960-04-08,Patient Lffdfkuer,F,59,70.5,85.6,152/73,112,Covid,Medd,50,772.88,No,14 Days,Nuts,Clinicalnote Jvnipekbq,37.61,3.03
+P200105,2023-09-29,1960-10-10,Patient Rqdcwidcai,M,87,25.1,95.4,158/83,51,Migraine,Medc,5,11173.19,No,14 Days,Nuts,Clinicalnote Rxtltida,32.27,170.2
+P200106,2023-07-26,1960-07-12,Patient Kkyvachajilwn,F,29,24.5,65.6,132/108,52,Covid,Medb,50,7640.95,No,1 Month,Dust,Clinicalnote Jddxbeuk,65.67,76.27
+P200107,2024-01-28,1960-10-23,Patient Gzj J,F,22,5.8,118.3,111/93,94,Fracture,Medc,100,8694.77,Yes,1 Month,Nuts,Clinicalnote Moqrsnblldtwhl,35.27,72.57
+P200108,2023-08-19,1960-10-03,Patient Uxlhufrog I,M,27,19.7,147.9,128/89,79,Hypertension,Medc,5,9404.47,No,No,Pollen,Clinicalnote Eqcptxwnudf Jt,72.52,234.77
+P200109,2023-10-15,1960-10-10,Patient Mzymzbcbxjnit,Other,87,84.0,102.6,117/91,53,Diabetes,Mede,20,4547.25,Yes,1 Month,Pollen,Clinicalnote Sfmfnyf,84.33,183.85
+P200110,2024-05-23,1960-03-16,Patient Bgbraiqqwdgg,Other,64,56.9,61.1,155/85,116,Hypertension,Medc,10,7640.95,No,No,Pollen,Clinicalnote Ftprgnasnsaqvi,21.16,52.41
+P200111,2023-07-31,1960-04-08,Patienturmrtrswnxmk,F,10,24.2,104.2,93/107,79,Diabetes,Meda,10,12532.71,No,7 Days,Nuts,Clinicalnote Bwwwcsot,28.91,121.75
+P200112,2023-11-03,1960-07-12,Patient Tofrdvneeqa,F,12,16.3,110.4,137/90,50,Hypertension,Meda,50,5226.79,Yes,1 Month,Pollen,Clinicalnote Psxcrmduseuc,18.07,237.29
+P200113,2024-04-26,1960-12-08,Patient Fhxiqjcl,F,37,70.1,106.4,179/102,117,Fracture,Medd,10,4336.28,No,1 Month,Penicillin,Clinicalnote Xcmfgphkdcsk,57.37,245.87
+P200114,2023-10-04,1960-12-24,Patient Xapsdpadng,Other,38,80.8,127.9,150/94,92,Asthma,Medb,10,1346.17,Yes,14 Days,Pollen,Clinicalnote Qknojaksftll,26.18,27.27
+P200115,2023-07-10,1960-07-01,Patient Cwyzoxumha,F,82,65.3,67.9,103/80,96,Diabetes,Meda,5,7640.95,Yes,No,Unknown,Clinicalnote Oecbmunq,5.04,242.53
+P200116,2023-12-26,1960-07-12,Patient Jfabfkvlsfvyjt,Other,74,117.6,156.4,149/81,95,Asthma,Mede,20,7039.5,No,1 Month,Dust,Clinicalnote Ebqsh,92.82,98.51
+P200117,2023-11-03,1960-12-08,Patient Uihmdkipqr,F,29,51.9,148.2,160/70,118,Diabetes,Mede,100,11138.98,Yes,1 Month,Pollen,Clinicalnote Jsuinlza,72.64,38.73
+P200118,2024-05-29,1960-10-17,Patient Mvlapguh Jejoce,M,30,22.9,195.0,128/109,55,Covid,Medc,50,8828.69,Yes,1 Month,Penicillin,Clinicalnote Litcu,6.4,53.29
+P200119,2023-11-03,1960-12-08,Patient Gkafgfcewvu,F,68,62.6,91.9,172/85,70,Covid,Medd,10,706.42,No,14 Days,Nuts,Clinicalnote Vopgwbtpfzghp,46.37,118.77
+P200120,2024-02-15,1960-10-12,Patient Oehxxj,M,60,5.5,112.6,114/66,51,Flu,Medb,20,12237.44,Yes,14 Days,Penicillin,Clinicalnote Lrkvnsmpkkxjzz,36.47,245.56
+P200121,2024-01-10,1960-07-12,Patient Nz Rlmpovd,F,3,22.4,100.8,177/94,88,Covid,Medb,100,9055.51,No,7 Days,Penicillin,Clinicalnote Cr Fzaajhuppmf,86.81,132.66
+P200122,2023-08-04,1960-04-08,Patient Vqaaqcmhx,F,81,61.1,118.3,127/103,84,Hypertension,Medb,10,10073.97,No,14 Days,Pollen,Clinicalnote Wzlhz,99.99,45.09
+P200123,2023-10-11,1960-09-19,Patient Vmdqjcukw,M,72,108.3,62.2,146/86,121,Covid,Medd,50,9055.17,No,1 Month,Penicillin,Clinicalnote Gbtdj,6.63,94.95
+P200124,2024-05-14,1960-04-08,Patiept Jdajthsv,Other,26,12.0,78.3,112/103,105,Fracture,Medb,50,2768.16,No,No,Nuts,Clsnicalnote Wbvhdtarlq,27.7,246.73
+P200125,2024-03-23,1960-06-09,Patient Etcljudzcjxwpsk,Other,55,23.7,130.6,106/63,101,Migraine,Medd,20,1164.28,Yes,1 Month,Pollen,Clinicalnote Utnhlycwklr,2.09,82.03
+P200126,2023-08-27,1960-11-16,Patient Vqajhrioofvsabe,Other,4,28.1,92.1,97/68,53,Flu,Meda,20,4275.17,Yes,1 Month,Penicillin,Clinicalnote Plwwbgo,96.13,157.7
+P200127,2023-08-28,1960-04-08,Patient Gfnkvcmpwxtiu,F,89,46.7,189.8,152/102,115,Fracture,Medc,20,10010.59,Yes,7 Days,Nuts,Clinicalnote Msylffgxh,69.01,67.88
+P200128,2024-04-15,1960-07-12,Patient Kjtn  Bp,F,17,29.7,83.9,111/72,58,Asthma,Medc,5,494.35,Yes,7 Days,Pollen,Clinicalnote Fesjrmdj,57.25,142.13
+P200129,2023-10-10,1960-06-11,Patient Wiizpyhmj,F,9,37.5,64.3,144/104,88,Fracture,Medb,20,11925.92,Yes,7 Days,Pollen,Clinicalnote Jfjqagztrb,12.39,121.07
+P200130,2024-01-28,1960-09-26,Patient Imgqvooejlpk,Other,62,89.1,176.0,174/107,56,Diabetes,Meda,100,13968.04,No,7 Days,Dust,Clinicalnote Ykwqazxmmabasc,85.95,140.19
+P200131,2024-01-28,1960-08-08,Patient Ahfltwakerwh,F,21,35.7,70.6,130/90,106,Covid,Mede,5,11172.79,No,7 Days,Unknown,Clinicalnote Poaksww Vfbr,6.79,223.68
+P200132,2024-03-08,1960-07-12,Patient Ujxkoum,Other,81,117.2,102.3,94/108,59,Fracture,Medd,5,11091.41,No,7 Days,Nuts,Clinicalnote Wtrddvhas,25.91,139.9
+P200133,2023-11-06,1960-08-25,Patient Itbyfrfrgnw,M,77,20.0,169.5,176/64,89,Hypertension,Mede,50,6118.92,Yes,1 Month,Dust,Clinicalnote Pc Nvgdopzgx,57.11,108.43
+P200134,2023-11-06,1960-04-08,Patient Eitgs,F,48,5.4,198.7,138/76,128,Fracture,Mede,5,5958.11,Yes,No,Dust,Clinicalnote Vgkebdifdxfw,87.68,92.65
+P200135,2023-08-04,1960-09-19,Patient Dixgoqfesoas,Other,81,38.0,125.7,129/77,128,Hypertension,Meda,50,5507.66,No,7 Days,Nuts,Clinicalnote Ltwbixkvnjhbhx,94.15,90.66
+P200136,2024-03-11,1960-09-23,Patient Afyjclrouvpsnqn,Other,1,65.8,98.7,104/66,66,Hypertension,Medb,10,11453.09,Yes,7 Days,Dust,Clinicalnote Bimpoayeb,28.14,166.83
+P200137,2023-07-26,1960-01-10,Patient Vkazo,F,9,14.7,70.4,162/80,93,Fracture,Medb,10,12605.49,No,1 Month,Nuts,Clinicalnote Dtejwvig,12.8,98.74
+P200138,2023-08-19,1960-11-24,Patient Vagfgxbjcvzi,F,76,90.4,147.1,176/78,72,Cold,Mede,50,11512.93,No,1 Month,Unknown,Clinicalnote Yirnjtvu,4.87,134.12
+P200139,2023-07-05,1960-07-12,Patient Mgqiuavw,F,41,22.5,178.8,139/85,64,Cold,Medc,100,8504.4,Yes,No,Dust,Clinicalnote Svbsqf,90.88,151.57
+P200140,2024-04-13,1960-12-08,Patient Yvfct,M,36,13.6,118.2,133/61,102,Hypertension,Meda,50,5498.96,No,No,Penicillin,Clinicalnwte Hlbkmclyklnapc,77.17,236.14
+P200141,2023-10-04,1960-10-10,Patient Cowuz,Other,85,10.3,139.1,112/90,88,Cold,Meda,100,4866.95,Yes,1 Month,Dust,Clinicalnote Emlykcmpimnfynw,26.3,197.77
+P200142,2023-11-03,1960-09-19,Patient Zgsphfili,M,51,60.2,81.4,129/94,72,Flu,Medb,100,9023.11,Yes,7 Days,Penicillin,Clinicalnote Bacbpjukvwl,12.44,74.69
+P200143,2024-04-06,1960-08-22,Patient Yglczkqcmgp,M,55,57.0,185.7,130/80,94,Cold,Mede,100,9270.56,No,1 Month,Unknown,Clinicalnote Ekfbtaa,44.64,99.44
+P200144,2023-07-06,1960-07-12,Patient Soyfixkkkcvuhw,F,52,16.1,61.8,157/89,104,Cold,Mede,100,2056.56,No,1 Month,Dust,Clinicalnote Iohlbgnv,34.15,86.06
+P200145,2023-12-26,1960-08-31,Patient Aglkqdl,M,10,99.4,77.4,110/103,78,Covid,Meda,100,7640.95,No,1 Month,Penicillin,Clinicalnote Avxgcnjqbyzy,46.28,238.83
+P200146,2024-02-15,1960-10-10,Patient Ivghcf,Other,16,23.2,184.6,118/109,80,Hypertension,Meda,10,5866.02,Yes,14 Days,Nuts,Clinicalnote Bjgtmejwxvt,44.61,82.42
+P200147,2023-07-06,1960-10-17,Patient Stgvds,Other,21,44.1,114.1,175/76,107,Hypertension,Medc,10,7640.95,Yes,1 Month,Unknown,Clinicalnote Ryxzx Ylqq,33.41,208.0
+P200148,2023-10-04,1960-10-17,Patient Jkqmep,F,57,19.0,79.5,142/80,55,Migraine,Medb,100,13944.54,Yes,7 Days,Nuts,Clinicalnote Gzfvjbdlsrkh,91.82,136.62
+P200149,2023-08-28,1960-10-27,Patient Gdmvt,Other,78,60.9,191.8,132/96,62,Hypertension,Medc,10,9768.43,Yes,7 Days,Unknown,Clinicalnote Yemhfi,51.39,63.62
+P200150,2023-11-29,1960-07-12,Patient Joxaudpp,Other,58,68.2,128.6,136/97,62,Migraine,Medb,100,9892.33,Yes,7 Days,Unknown,Clinicalnote Ykuszdmuvr,52.45,172.56
+P200151,2024-03-11,1960-09-13,Patient Gnoeogmqpaa,Other,86,51.1,193.1,129/67,87,Cold,Medb,5,7047.58,No,1 Month,Pollen,Clinicalnote Srme Vcq,11.75,187.54
+P200152,2024-03-11,1960-10-10,Patient Fymtb,F,84,49.9,53.6,124/88,69,Hypertension,Mede,100,7960.56,Yes,7 Days,Unknown,Clinicalnbte Weuzozcopxste,15.2,154.52
+P200153,2024-01-28,1960-11-21,Patient Ubdhfto,Other,32,17.5,159.2,90/103,104,Diabetes,Medc,5,14145.3,Yes,7 Days,Nuts,Clinicblnote Afael,8.39,228.58
+P200154,2023-12-06,1960-09-19,Patient Evhgxlainjmf,M,7,85.1,122.3,130/79,51,Covid,Medb,20,4873.22,Yes,7 Days,Pollen,Clinicalnote Wltfgsghuheczvr,12.34,68.25
+P200155,2023-11-01,1960-11-20,Patient Pmfhtvfsf,Other,13,106.1,176.0,168/95,71,Hypertension,Mede,100,11376.68,Yes,No,Penicillin,Clinicalnote Hudycwvagulbluk,17.92,170.97
+P200156,2023-10-04,1960-01-11,Patient Hskkp,F,64,19.9,118.7,105/75,111,Covid,Medb,20,2603.98,No,No,Nuts,Clinicalnote Jiyfbqk,63.58,24.69
+P200158,2023-11-06,1960-10-17,Patient Ougkzue,M,76,116.3,152.7,164/84,64,Hypertension,Medb,20,5990.81,Yes,1 Month,Dust,Clinicalnote Pjnpuliv,17.99,71.12
+P200159,2023-11-03,1960-04-08,Patient Cxuyo,M,48,37.1,146.4,176/86,66,Diabetes,Medc,50,8294.83,Yes,No,Unknown,Clinicalnote Norshdlkafmq,57.57,88.27
+P200160,2023-10-10,1960-01-27,Patient Zfbvnefchushkfp,M,12,72.2,86.8,121/70,66,Hypertension,Mede,5,12243.25,Yes,7 Days,Unknown,Clinicalnote Qyruzdgb S,15.79,63.44
+P200161,2024-05-21,1960-10-17,Patient Qbrqw,F,37,63.5,82.4,93/94,102,Migraine,Meda,10,7640.95,No,No,Penicillin,Clinicalnote Fcin Pv,35.31,224.36
+P200162,2023-09-19,1960-07-12,Patient Bqmspfwpw,F,27,49.6,183.4,145/90,55,Flu,Medd,100,14235.57,Yes,1 Month,Penicillin,Clinicalnote Uuhdjxaksxhcve,94.96,112.79
+P200163,2024-02-09,1960-10-31,Patient Xaejnxjuwipeupp,Other,67,97.1,139.3,155/76,59,Migraine,Medc,20,6816.06,Yes,14 Days,Nuts,Clinicalnote Fytedxpr,29.44,181.95
+P200164,2024-01-09,1960-09-19,Patient Sanrdfnerjg,Other,29,43.4,186.4,171/64,60,Cold,Medc,20,8426.69,Yes,7 Days,Nuts,Clinicalnote Zkqvvbzqcnat,83.9,209.38
+P200165,2024-02-22,1960-08-17,Patient Ilnhkptmdelwllp,F,8,47.0,90.6,103/85,83,Diabetes,Meda,20,1568.45,No,7 Days,Dust,Clinicalnote Grfrilipfutc,8.28,14.45
+P200166,2023-09-26,1960-07-12,Patient Fzqmugvr,Other,28,5.8,194.0,154/67,121,Flu,Medc,50,10982.96,Yes,14 Days,Unknown,Clinicalnote Wlhfn,71.42,76.59
+P200167,2024-04-12,1960-09-19,Patient Piaotjgfkfhe,F,63,34.0,120.4,112/91,86,Covid,Medc,50,4755.66,Yes,14 Days,Nuts,Clinicalnote  Ssxiwrvnfaeq R,54.34,100.45
+P200168,2023-11-06,1960-11-22,Patient Xebpoafg,M,23,7.0,80.3,91/64,73,Migraine,Meda,20,619.09,Yes,7 Days,Unknown,Clinicalnote Qedeftfz,69.52,119.39
+P200169,2024-01-28,1960-10-10,Patient Vgueei,M,11,71.0,77.4,156/70,92,Covid,Medb,10,8057.96,Yes,1 Month,Penicillin,Clinicalnote Kpcmf,7.74,58.38
+P200170,2024-05-23,1960-12-08,Patient Fbmwfygp,M,23,16.1,55.1,114/65,83,Asthma,Medb,50,11120.8,Yes,7 Days,Dust,Clinicalnote Gdbumppgizov,60.23,40.42
+P200171,2024-01-28,1960-07-12,Patient Zsuqfyxlchcczr,Other,16,78.4,125.4,135/74,118,Fracture,Meda,50,3185.8,No,1 Month,Dust,Clinicalnote Iqokpugxdkkigd,95.35,53.52
+P200172,2024-01-28,1960-07-12,Patient Nhebyszk,F,68,16.2,175.6,138/68,114,Diabetes,Meda,10,1569.33,No,7 Days,Pollen,Clinicalnote Asjjzcf,43.28,65.3
+P200174,2024-04-17,1960-09-23,Patient Ilwpx,Other,4,23.9,118.7,171/72,58,Flu,Medc,5,8824.93,Yes,7 Days,Penicillin,Clinicalnote Eriguhywhywzpwb,32.97,13.69
+P200175,2024-02-17,1960-11-25,Patient Xtxudbvivm,M,45,25.2,174.5,147/109,101,Covid,Medb,50,5974.58,No,7 Days,Penicillin,Clinicalnote Swmgwmh,83.41,44.83
+P200176,2024-03-11,1960-10-10,Patient Dfclqwgykxbtiad,F,30,81.8,61.4,165/61,118,Covid,Medc,100,7070.79,No,7 Days,Dust,Clinicalnote Xcyjjmomn Znpyd,98.61,206.64
+P200177,2023-07-26,1960-09-19,Patient Pfddb Gt,Other,42,112.3,159.3,173/84,96,Migraine,Medc,20,6981.25,Yes,No,Dust,Clinicalnote Xvsqlihv,85.58,56.37
+P200178,2024-01-23,1960-12-08,Patient Tizlakyy,Other,9,111.0,72.3,122/74,86,Fracture,Mede,5,7278.23,Yes,14 Days,Penicillin,Clinicalnote Allpdk,61.13,78.85
+P200179,2023-11-03,1960-06-18,Patient Mbgt Uaq,M,59,17.6,69.6,126/62,85,Asthma,Medb,20,11845.02,No,7 Days,Nuts,Clinicalnote Zinyphfwal,78.9,125.54
+P200180,2024-02-04,1960-12-08,Patient Abiayo,F,9,88.4,186.3,165/76,55,Flu,Medc,20,13702.21,No,14 Days,Dust,Clinicalnote Cetqqjzjfnqdrv,57.18,135.63
+P200181,2023-11-03,1960-07-12,Patient Nrmhmw Ngejfbw,Other,8,38.4,75.4,99/105,110,Cold,Medb,100,14507.93,Yes,1 Month,Pollen,Clinicalnote Lezdtyra,57.42,6.96
+P200182,2023-07-26,1960-10-17,Patient Rcf Kfhuoxxo,F,44,15.1,181.5,142/75,104,Diabetes,Mede,50,5263.71,No,No,Unknown,Clinicalnote Ialznm Omx,50.33,144.19
+P200183,2024-04-06,1960-06-09,Patient Omvwyfgvjqvxc,F,79,74.5,155.4,126/101,83,Covid,Mede,100,9596.68,No,No,Nuts,Clinicalnote Yspfkwxjasezbj,51.25,3.14
+P200184,2023-10-04,1960-09-19,Patient Apnqcktmabx,F,19,3.4,70.5,140/60,111,Migraine,Mede,50,4265.71,No,7 Days,Pollen,Clinicalnote Bufkubr,94.5,121.79
+P200185,2023-10-04,1960-04-08,Patient Cquoem R,F,80,57.7,155.9,120/100,77,Migraine,Mede,5,2626.68,Yes,7 Days,Unknown,Clinicalnote Nebjlppvjry,74.86,213.81
+P200186,2023-09-29,1960-10-25,Patient Mfcorfjnjjpqby,Other,40,16.2,196.6,169/79,71,Hypertension,Mede,10,12452.0,No,1 Month,Pollen,Clinicalnote Rwkgfvowcokpt,64.52,93.18
+P200187,2023-10-04,1960-07-12,Patient Jcqjuv,Other,38,78.1,93.1,109/98,105,Hypertension,Medd,10,10716.43,Yes,No,Unknown,Clinicalnote Dlvgxbavjve,24.63,134.01
+P200188,2024-01-17,1960-01-11,Patient Ywrqr,Other,23,88.1,98.1,95/93,65,Hypertension,Medb,100,5017.42,Yes,7 Days,Dust,Clinicalnote Tkntsotuzxt,45.7,124.88
+P200189,2023-11-03,1960-09-19,Patient Snwmvodbistve,M,3,39.5,122.8,172/82,50,Covid,Medb,5,7640.95,No,14 Days,Unknown,Clinicalnote Gbzwdidruczftfg,87.19,204.62
+P200190,2024-04-06,1960-10-17,Pgtient Wgmhilrlcky,F,64,108.9,68.8,96/98,81,Migraine,Meda,20,12852.96,No,14 Days,Unknown,Clinicalnote Hedtcfpqets,99.97,36.56
+P200191,2023-07-26,1960-12-08,Patient Mldmb,M,27,39.0,78.7,157/60,88,Cold,Medb,5,8382.63,Yes,7 Days,Pollen,Clinicalnote Xuktmtq,59.06,196.46
+P200192,2023-08-10,1960-10-27,Patient Flhvru,F,2,31.7,52.9,144/68,70,Cold,Meda,10,1007.48,No,1 Month,Penicillin,Clinicalnote Kyqdyykwgty,45.0,34.37
+P200194,2024-04-09,1960-04-08,Patient Facwrlhgkoybq,M,70,97.3,175.0,106/80,86,Diabetes,Mede,100,4784.94,Yes,1 Month,Pollen,Clinicalnote Fqxvu,98.13,243.09
+P200195,2023-07-26,1960-12-08,Patient Xorykdxd,M,57,20.8,82.7,141/97,50,Fracture,Medb,5,2595.23,Yes,1 Month,Pollen,Clinicalnote F Hxubkyqi,92.23,54.47
+P200196,2024-01-28,1960-02-22,Patient Eajggfrqxpomaas,F,88,51.7,195.5,120/104,99,Cold,Medc,20,11137.84,No,7 Days,Nuts,Clinicalnote Yuymq,97.87,109.68
+P200197,2023-11-06,1960-12-28,Patient Ynxcyyyjkdt,F,87,102.3,54.4,135/86,119,Fracture,Meda,10,7648.57,No,No,Penicillin,Clinicalnote Wbmmrzkorxkeywc,12.76,145.43
+P200198,2024-01-28,1960-09-19,Patient Wz Tl Sodbymb,F,2,109.0,136.8,127/73,114,Fracture,Meda,5,14982.31,Yes,14 Days,Unknown,Clinicalnote Inobm,91.22,162.29
+P200199,2024-04-02,1960-04-08,Patient Zexyhtmps Nunj,Other,86,107.1,121.9,141/109,97,Cold,Meda,50,1832.6,No,No,Dust,Clinicalnote  Vmpkadwb,46.51,179.96
+P200200,2024-02-09,1960-07-12,Patient Uaorgr,M,5,111.8,122.6,163/82,62,Cold,Meda,10,3662.12,No,1 Month,Nuts,Clinicalnote Ywvktjcryaspkf,36.02,116.88
+P200201,2023-11-29,1960-12-08,Patient Xmvijre,M,47,36.6,96.9,100/95,127,Covid,Medc,100,5393.86,Yes,14 Days,Unknown,Clinicalnote Ejfkwlol,24.17,92.81
+P200202,2023-10-04,1960-01-28,Patient Fcsst,F,79,97.8,57.0,163/89,118,Migraine,Mede,5,10216.2,No,14 Days,Pollen,Clinicalnote Fmlgfwzvpwqqi,31.9,73.79
+P200203,2024-01-28,1960-10-17,Patient Wsflbboq,M,14,119.3,105.2,140/74,51,Flu,Medd,100,8079.24,Yes,7 Days,Pollen,Clinicalnote Wwnlrohexeiszx,25.83,101.87
+P200204,2024-04-06,1960-07-05,Patient Wxfvfmswssnfhu,F,26,20.1,99.1,165/99,81,Asthma,Mede,50,14741.42,No,No,Penicillin,Clinicalnote Assntnvnxrzzpqq,55.87,242.12
+P200205,2024-04-06,1960-11-20,Patient Fpwvvcj,M,67,46.0,87.1,136/74,104,Fracture,Medd,10,8656.89,Yes,14 Days,Pollen,Clinicalnote Mo Ezcpdyw,11.79,153.06
+P200206,2023-11-29,1960-09-04,Patient Phdozd,F,48,100.0,131.1,92/102,93,Fracture,Mede,20,977.8,No,7 Days,Dust,Clinicalnote Vukxsys,33.08,130.68
+P200207,2023-08-08,1960-12-08,Patient Lxqwjngsdk,F,16,77.3,53.4,144/71,63,Flu,Meda,5,7019.55,Yes,7 Days,Pollen,Clinicalnote Lpskhghaddrlj P,59.43,37.13
+P200208,2024-01-28,1960-03-31,Patient Rpmcz,M,88,69.7,129.9,148/94,126,Hypertension,Medb,50,12433.39,No,14 Days,Dust,Clinicalnote Byqeouiijuq,95.71,82.03
+P200209,2024-02-17,1960-07-12,Patient Todomvhpwz,F,89,90.0,115.1,124/86,97,Flu,Medd,100,9205.15,No,14 Days,Dust,Clinicalnote Lrolxrlcwa,51.23,20.53
+P200210,2023-07-26,1960-07-12,Patient Mk Mq Pgihfd,Other,78,46.3,74.0,172/85,95,Flu,Medc,10,450.77,Yes,No,Penicillin,Clinicalnote Fmohnkzatxb,26.23,110.25
+P200211,2023-08-28,1960-09-13,Patient Uiymyqkqxqvye,F,48,32.7,118.7,136/79,113,Covid,Meda,5,7640.95,No,No,Nuts,Clinicalnote Bklxvzjtvthv,26.03,92.03
+P200212,2024-04-06,1960-09-19,Patient Kpvdhzsl,M,2,87.6,114.2,136/99,125,Hypertension,Meda,5,13584.15,Yes,7 Days,Pollen,Clinicalnote Wshr S Zfltbh,69.32,102.44
+P200213,2023-07-15,1960-10-17,Patient Boiovjjhpguj,Other,11,78.0,92.4,95/86,100,Hypertension,Medd,20,1963.82,No,No,Dust,Clinicalnote Lqpcxerpnkko,46.61,68.81
+P200214,2024-01-28,1960-11-16,Patient Bbywgrgrfsua Za,M,75,67.0,150.5,111/66,63,Asthma,Meda,5,11494.54,No,14 Days,Pollen,Clinicalnote Ufgqx,44.7,17.2
+P200215,2023-08-10,1960-10-27,Patient Hizcmr,Other,15,71.0,149.1,94/107,123,Flu,Meda,20,12110.08,No,7 Days,Unknown,Clinicalnote Heaeydyxpbm,14.88,19.31
+P200216,2024-01-22,1960-07-12,Patient Alp Xx,F,6,47.4,158.4,145/98,119,Hypertension,Mede,10,6031.34,Yes,7 Days,Nuts,Clinicalnote Rhdhtqrmycxgb,21.55,233.96
+P200217,2023-10-04,1960-07-12,Patient Mvswrpvw,M,72,108.8,95.2,105/73,61,Cold,Medc,10,13674.48,Yes,14 Days,Pollen,Clinicalnote Rxidpsbwjcm,8.51,212.81
+P200218,2023-08-28,1960-02-22,Patient Swsknymkuwqdwc,M,86,52.3,86.9,104/104,96,Asthma,Medb,100,4669.36,No,No,Pollen,Clinicalnote Zpudx,0.49,190.27
+P200219,2023-10-04,1960-12-08,Patient Omvubjrkpiyvpt,M,66,117.2,179.5,137/92,126,Diabetes,Mede,50,10796.07,No,14 Days,Penicillin,Clinicalnote Vhhrwv,79.51,164.2
+P200220,2023-11-03,1960-12-08,Patient Vxorsmmqdczw,M,81,24.9,164.5,162/103,103,Migraine,Medc,100,13140.59,Yes,14 Days,Pollen,Clinicalnote Ljlz Ezf,86.29,187.25
+P200221,2023-12-18,1960-07-05,Patient Qynjrsn,M,54,30.4,51.4,173/83,68,Hypertension,Mede,50,11357.76,No,No,Dust,Clinicalnote Nthzdotc,26.79,80.65
+P200222,2024-02-08,1960-09-19,Patient Yueliof,M,22,43.5,173.0,125/90,65,Hypertension,Meda,100,9178.51,Yes,1 Month,Unknown,Clinicalnote Nfdmjpccw,60.39,205.12
+P200223,2024-02-23,1960-09-19,Patient Vrptuxgowglept,M,4,30.9,90.4,117/76,61,Fracture,Meda,10,5902.65,No,No,Unknown,Clinicalnote Uqtemszzkpvxr,65.96,41.2
+P200224,2023-12-26,1960-12-22,Patient Trzdvd,F,15,15.1,57.2,104/99,121,Hypertension,Medc,10,10177.17,No,1 Month,Pollen,Clinicalnote Rwwve,68.41,74.18
+P200225,2023-10-04,1960-10-12,Patient Pyxiqaathkm,F,54,29.2,137.0,118/80,86,Hypertension,Medc,20,10306.88,Yes,14 Days,Dust,Clinicalnote Rrlvrjvdukr,76.59,15.64
+P200226,2023-10-04,1960-10-10,Patient Nhduu,F,63,80.4,118.4,169/96,69,Asthma,Medd,50,6671.97,Yes,14 Days,Unknown,Clinicalnote Zeksqg,32.84,249.46
+P200227,2023-10-04,1960-07-12,Patient Puwwdve,M,74,40.9,144.1,174/70,76,Asthma,Mede,10,4700.84,Yes,14 Days,Pollen,Clinicalnote U Jhozgsyuomy,85.94,142.62
+P200228,2024-05-14,1960-09-19,Patient Aymf,M,18,22.0,109.3,107/83,69,Cold,Meda,20,4171.3,Yes,1 Month,Unknown,Clinicalnote Eybntfpz,31.09,94.12
+P200229,2023-11-03,1960-10-27,Patient Dsmtn,F,78,110.7,198.1,133/101,86,Asthma,Mede,50,10999.24,No,No,Pollen,Clinicalnote Dicjuajs,69.49,118.48
+P200230,2024-02-11,1960-07-12,Patient Nvkwfhgtd,Other,81,11.5,81.7,130/82,92,Fracture,Medd,100,7351.53,No,1 Month,Nuts,Clinicalnote Lvoibqra,6.8,89.53
+P200231,2023-10-04,1960-04-20,Pafient Rhrbnngkoj,Other,49,13.8,56.3,108/100,95,Diabetes,Medd,50,2373.28,Yes,7 Days,Penicillin,Clinicalnote Lhpwohpg,25.64,93.4
+P200233,2023-11-03,1960-07-12,Patient Juulkvqebveq Dq,M,8,87.3,89.3,134/101,102,Cold,Medd,100,13033.05,No,1 Month,Dust,Clinicalnote Hlapmdvx,73.57,35.27
+P200234,2023-12-16,1960-06-18,Patient Ovftszukldvqfw,M,46,25.1,188.3,120/68,120,Migraine,Medb,5,9126.89,Yes,7 Days,Dust,Clinicalnote Vkhykvodsaanea,89.02,177.64
+P200235,2024-05-20,1960-04-24,Patient Efgnpyolhwgqn,F,25,19.1,61.5,126/78,72,Covid,Mede,20,12702.64,No,1 Month,Dust,Clinicalnote Djcepfnqr,90.57,34.42
+P200236,2023-10-04,1960-10-31,Patient Tilqxzjxbssczy,F,75,31.6,75.2,156/105,53,Diabetes,Medc,10,11959.23,No,14 Days,Nuts,Clinicalnote Bcdllt,69.09,231.99
+P200237,2023-10-10,1960-09-04,Patient P Kyjc,F,52,62.4,170.3,176/97,52,Diabetes,Medd,20,4997.1,Yes,7 Days,Penicillin,Clinicalnote Yfbgl Rizmmybj,60.99,34.95
+P200238,2023-09-15,1960-07-12,Patient  Imff,M,82,90.5,167.5,131/69,104,Covid,Mede,20,3071.86,No,No,Unknown,Clinicalnote Eqjrlvbmxxzl,40.71,45.83
+P200239,2024-04-02,1960-04-08,Patient Bezstrxog Gipij,Other,57,54.6,171.7,129/82,76,Fracture,Medd,10,5119.37,No,7 Days,Pollen,Clinicalnote Jnpfsubtmc,38.64,62.75
+P200241,2024-01-24,1960-07-12,Patient Mpasa,Other,61,26.9,77.8,172/86,72,Cold,Mede,100,272.51,No,7 Days,Pollen,Clinicalnote Ggahpglmc Xr,72.7,82.1
+P200242,2024-05-06,1960-09-19,Patient Nwzcz,M,61,111.6,128.0,161/109,60,Hypertension,Mede,50,2056.32,No,14 Days,Pollen,Clinicalnote Ctvkarc,62.62,247.13
+P200243,2023-07-26,1960-01-01,Patient  Ujiwzuvqysy Z,Other,74,99.1,83.8,145/75,102,Asthma,Medb,20,3852.53,No,14 Days,Unknown,Clinicalnote  Dkjs Bjulodgaa,31.22,43.49
+P200245,2024-01-28,1960-07-12,Patient Uyvxhxbwezjlt,F,52,103.2,142.0,133/98,113,Asthma,Meda,5,11938.65,Yes,7 Days,Nuts,Clinicalnote Sbiziecyvzbcym,37.19,23.38
+P200246,2023-11-29,1960-11-25,Patient Ypgjlgyvddylfc,M,63,101.6,119.0,165/86,114,Flu,Mede,5,5144.83,No,7 Days,Pollen,Clinicalnote Yydosxm,74.99,30.83
+P200247,2023-07-18,1960-07-12,Patient Sybmltcxzd,Other,82,30.8,86.2,156/72,57,Diabetes,Medd,20,11085.45,Yes,7 Days,Nuts,Clinicalnote Lytechgwkuctmzv,1.99,151.1
+P200248,2023-07-26,1960-10-10,Patient Pgovapdlcty,Other,8,8.9,119.8,90/83,70,Cold,Medd,100,13193.52,Yes,1 Month,Unknown,Clinicalnote Xxsjfadtumci,55.2,151.24
+P200249,2024-01-28,1960-10-14,Patient Myltuzj,M,52,113.4,116.0,121/60,105,Migraine,Medb,10,13791.55,Yes,No,Dust,Clinicalnote Mimpnzynkmg,12.0,138.22
+P200250,2023-11-03,1960-10-29,Patient Ejeizrb,F,78,95.1,112.0,154/104,62,Fracture,Medd,5,10197.28,Yes,No,Penicillin,Clinicalnote Kamcolihtzxzfwz,31.43,155.53
+P200251,2023-09-29,1960-08-22,Patient Mxmbwdyd,F,23,42.5,186.2,141/108,120,Hypertension,Medb,5,14254.21,Yes,No,Nuts,Clinicalnote Dtvmpsmxz,67.89,135.77
+P200252,2024-02-11,1960-04-08,Patient Bwngw Lhktedxh,M,77,33.0,160.3,126/75,95,Hypertension,Medc,20,4545.51,No,1 Month,Nuts,Clinicalnote Usrxtjzflzirm,47.07,175.84
+P200253,2024-04-06,1960-12-28,Patient Kwqqyez,M,8,70.7,109.0,128/75,60,Flu,Mede,100,7640.95,No,14 Days,Penicillin,Clinicalnote Qdyvxparqmdxkyz,36.93,176.19
+P200254,2024-02-18,1960-03-16,Patient Haffo,M,28,20.3,182.4,145/96,53,Migraine,Mede,10,11873.09,No,No,Penicillin,Clinicalnote Pkaedop,40.84,43.27
+P200255,2023-07-18,1960-07-12,Patient Mmbwooxdoav,F,45,70.5,107.2,166/91,53,Flu,Medb,5,9082.13,No,7 Days,Nuts,Clinicalnoie Zqpbvt,25.14,86.33
+P200256,2023-10-04,1960-09-19,Patient Hhxmuteracfdtsn,F,36,65.4,124.0,115/104,96,Flu,Meda,100,1034.46,Yes,No,Nuts,Clinicalnote Otanltqrxx,94.54,224.27
+P200257,2024-04-17,1960-12-08,Patient Zsqyrupxlpy,Other,76,33.3,191.4,160/65,69,Diabetes,Medc,50,11484.88,Yes,1 Month,Penicillin,Clinicalnote Ajbvg,75.77,7.42
+P200258,2023-07-11,1960-10-17,Patient Viqad,F,29,17.1,160.0,176/80,102,Covid,Medb,100,12320.45,Yes,No,Nuts,Clinicalnote Xkfxhez,5.18,164.74
+P200259,2024-04-12,1960-07-12,Pahient Sdxtnxtrj,Other,64,101.1,104.9,111/97,96,Fracture,Medb,20,6956.14,No,14 Days,Pollen,Clinicalnote Gzxgebsxsuurha,3.28,145.69
+P200260,2023-11-01,1960-10-10,Patient Opujgvva,F,63,61.8,75.2,131/87,119,Cold,Medc,10,6700.72,No,14 Days,Unknown,Clinicalnote Avqnauzsnloalas,89.0,196.59
+P200261,2023-11-03,1960-09-19,Patient Hpwqwx,M,80,114.1,192.1,166/98,93,Fracture,Mede,10,630.56,Yes,14 Days,Pollen,Clinicalnote Dqevvpirw,72.95,156.13
+P200263,2023-11-06,1960-04-08,Patient Wbbghltyjvcubqh,M,19,35.1,106.1,174/85,114,Diabetes,Mede,50,6509.85,No,14 Days,Nuts,Clinicalnote Gylyhdd,92.12,133.24
+P200264,2024-04-06,1960-12-08,Patient Uj Ywzhfrzd,Other,54,67.0,141.4,162/67,125,Migraine,Medd,5,13955.27,Yes,14 Days,Unknown,Clinicalnote Hrpupxtrlqw,38.46,246.36
+P200265,2023-10-04,1960-07-12,Patient Skcs Quzzt,Other,17,101.1,55.1,163/90,108,Migraine,Meda,20,12493.13,Yes,14 Days,Dust,Clinicalnote  Vjkzrfue,89.81,196.85
+P200266,2023-10-10,1960-10-10,Patient  J Vwiysyrsu,M,54,20.8,187.1,95/106,55,Migraine,Medb,5,4959.51,Yes,No,Unknown,Clinicalnote Lvwrodlnskxbt,48.1,96.69
+P200267,2023-11-03,1960-07-12,Patient Geeawdqqtxkyi,M,20,6.7,198.6,146/60,95,Hypertension,Mede,10,5755.96,Yes,7 Days,Unknown,Clinicalnote Pzfoclx,54.8,151.54
+P200268,2023-11-03,1960-12-24,Patient Jw Yq,Other,79,74.7,68.4,93/70,77,Hypertension,Medb,100,4310.9,No,1 Month,Penicillin,Clinicalnote Ao Qmyijeyylxm,24.51,139.09
+P200269,2023-12-15,1960-10-29,Patient Ndvijcefcvkzynr,F,55,25.0,97.2,144/103,100,Cold,Medc,50,11637.63,No,14 Days,Nuts,Clinicalnote Fppmtdv,59.47,144.07
+P200270,2024-03-11,1960-03-27,Patient Mkdmmmggzimxkvc,F,71,15.4,128.0,132/81,93,Fracture,Meda,10,9097.94,No,1 Month,Penicillin,Clinicalnote Gzwaomscehmxz,67.33,114.34
+P200271,2023-11-03,1960-07-12,Patient Oqvqpr,Other,66,10.1,59.0,146/99,91,Fracture,Medb,20,6667.63,Yes,No,Nuts,Clinicalnote Tfadvabb,74.79,249.3
+P200272,2023-10-04,1960-03-18,Patient Gxjqxqhwkqsgs,M,18,118.8,153.2,103/84,80,Cold,Meda,50,404.89,Yes,1 Month,Unknown,Clinicalnote Zmejljovxgre,67.72,168.45
+P200273,2024-01-28,1960-12-08,Patient Ppiocqxyoip,F,36,110.3,72.3,110/94,123,Flu,Medc,50,11380.94,No,No,Pollen,Clinicalnote Rmsmmlxsi,75.95,72.19
+P200274,2024-05-03,1960-12-08,Patient Paeggnuyrcenmco,M,26,26.4,100.3,110/94,56,Asthma,Medb,20,6313.58,No,7 Days,Unknown,Clinicalnote Zkqeuabt,96.2,84.22
+P200275,2023-07-26,1960-08-08,Patient Chane,F,39,35.7,130.7,125/88,74,Hypertension,Mede,100,8631.35,Yes,14 Days,Nuts,Clinicagnote Mtnhnawzryw,65.31,23.48
+P200276,2023-10-04,1960-07-12,Patient Kgfrroxvdvw,M,5,65.1,170.8,138/99,118,Flu,Medc,100,9899.24,Yes,No,Penicillin,Clinicalnote Suonuvtzkgfoj,36.33,210.88
+P200277,2023-10-10,1960-06-11,Patient Kbgpw,Other,85,25.4,176.4,97/65,96,Cold,Meda,50,8973.23,Yes,7 Days,Penicillin,Clinicalnote Syrrscfkbbkgo,62.54,150.7
+P200278,2023-08-12,1960-07-12,Patient Nrtosjieipona,Other,79,38.6,75.3,168/96,124,Flu,Meda,20,6499.07,Yes,No,Nuts,Clinicalnote Xxfwncbk,45.05,249.84
+P200279,2023-12-15,1960-10-29,Patient Atxlchcps,M,31,22.0,158.1,145/88,120,Hypertension,Meda,20,7640.95,No,7 Days,Nuts,Clinicalnote Adejnn,39.77,27.99
+P200280,2023-10-04,1960-09-19,Patient Xttztezwteml Q,F,61,102.8,69.2,113/73,94,Diabetes,Medd,20,1519.96,Yes,14 Days,Pollen,Clinicalnote Spklmibdbet,16.7,42.22
+P200281,2023-09-07,1960-09-26,Patient Ywmvatfu,Other,53,26.8,148.2,139/60,74,Migraine,Meda,10,7919.72,No,7 Days,Penicillin,Clinicalnote Jryamjutw,60.57,141.05
+P200282,2024-04-06,1960-07-12,Patient Trzo O,M,55,71.4,67.9,175/75,95,Flu,Mede,5,4667.93,Yes,No,Nuts,Clinicalnote Gg Eokdtqb,51.93,25.59
+P200283,2023-10-04,1960-09-19,Patient Gjgfnyfkksr,F,26,32.3,107.2,146/105,125,Cold,Meda,50,11710.25,No,No,Penicillin,Clinicalnote Ncpuvhad Box,8.71,185.53
+P200285,2023-11-03,1960-10-17,Patient Qmuxrkflrmd T,Other,52,17.7,165.8,99/63,93,Cold,Medc,100,3319.29,Yes,1 Month,Dust,Clinicalnote Czhoiolfxqw,6.91,133.0
+P200286,2024-05-03,1960-07-12,Patient Ccjbykurfe,M,65,59.5,161.3,134/77,77,Fracture,Meda,5,5803.69,Yes,7 Days,Unknown,Clinicalnote Nnbtsfqwni,73.24,247.26
+P200287,2023-08-12,1960-10-10,Patient Olxmfwvspmacx,M,13,26.7,152.9,152/64,78,Covid,Medc,100,7640.95,Yes,1 Month,Unknown,Clinicalnote Jicwwfhpc Crv,7.5,23.81
+P200288,2024-03-18,1960-09-19,Patient Tpmvad Fsqadxm,M,49,54.6,160.7,173/102,54,Diabetes,Medd,100,12426.05,Yes,14 Days,Unknown,Clinicalnote  Yhpwsno,28.29,74.63
+P200289,2024-02-04,1960-08-22,Patient  Vuckn,Other,82,91.9,72.6,149/108,75,Flu,Medb,100,5851.83,No,1 Month,Nuts,Clinicalnote Gkelpktzm,19.59,62.74
+P200290,2024-04-26,1960-12-22,Patient Fejtni,Other,63,34.1,134.5,97/88,93,Flu,Mede,20,2726.73,No,1 Month,Nuts,Clinicalnote Tvrxtyhnkic,13.41,105.92
+P200291,2023-11-29,1960-09-19,Patient Lvwxatsybklmwg,Other,62,94.5,68.3,147/107,51,Flu,Medd,100,9140.71,No,No,Pollen,Clinicalnote Sdhaorlcgqkvso,36.13,203.42
+P200293,2024-02-02,1960-10-10,Patient Rleilwsg,F,83,14.3,129.1,163/67,67,Diabetes,Medc,50,4390.22,Yes,14 Days,Unknown,Clinicalnote Sjd Rvoyhztaf,18.45,3.27
+P200294,2023-09-25,1960-12-28,Patient Aotudwekvpyma S,Other,79,59.7,111.6,154/89,56,Flu,Medd,100,3133.98,Yes,7 Days,Pollen,Clinicalnote Ujufsxsdyjnhzvn,59.92,96.86
+P200295,2023-11-01,1960-09-19,Patient Khobedil,M,5,101.5,118.3,116/92,88,Covid,Mede,5,7155.65,No,No,Dust,Clinicalnote Effxjejgui,77.34,215.69
+P200296,2023-11-29,1960-07-12,Patient Fbuyitrcsi,Other,23,65.0,168.7,103/107,121,Fracture,Meda,50,13614.23,Yes,1 Month,Dust,Clinicalnote Dkzfs,49.48,81.76
+P200297,2023-08-01,1960-06-11,Patient Jpqoygcpkgfetth,M,57,38.6,179.6,156/89,50,Hypertension,Meda,50,8094.35,Yes,14 Days,Nuts,Clinicalnote  Tufyocj,69.36,191.14
+P200298,2024-02-23,1960-09-23,Patient Emwmjyptuztnk,F,15,15.5,122.0,118/72,73,Asthma,Mede,5,12857.09,No,1 Month,Unknown,Clinicalnote G Rhhzy,36.97,199.02
+P200299,2024-02-13,1960-04-08,Patient Yijlpmlthzauhxy,M,27,15.1,64.8,119/94,87,Migraine,Medb,5,8154.87,Yes,14 Days,Pollen,Clinicalnote Hatk,59.93,91.0
+P200300,2023-12-11,1960-10-29,Patient Ifabmnargm,F,31,5.3,107.0,119/85,83,Fracture,Medd,20,4479.08,No,1 Month,Penicillin,Clinicalnote Tzyaonkipmj,72.2,110.27
+P200301,2024-05-21,1960-03-26,Patient Jfsacibpl,Other,42,106.3,143.6,105/65,115,Flu,Mede,100,11666.67,No,7 Days,Nuts,Clinicalnote Hslbbqjoi,67.22,175.05
+P200302,2023-11-29,1960-04-08,Patient Vckufvlkzvq,F,87,62.0,129.5,149/104,68,Flu,Meda,5,12890.72,Yes,14 Days,Pollen,Clinicalnote Hyuyvii,10.82,170.23
+P200303,2024-01-28,1960-08-20,Patient Rvrca,F,28,98.0,51.6,141/106,56,Flu,Mede,50,696.56,No,1 Month,Pollen,Clinicalnote Ekzdsiifhza,23.47,153.19
+P200304,2023-07-11,1960-07-03,Patient Sgthxcdz,M,13,76.5,194.3,157/75,65,Fracture,Medb,100,11426.87,Yes,7 Days,Dust,Clinicalnote Ggftek Vvij,75.4,225.67
+P200305,2024-04-06,1960-07-12,Patient Yjsneipiimml,F,66,33.7,171.2,114/95,128,Fracture,Medd,10,4114.84,No,7 Days,Penicillin,Clinicalnote Zxnryi,43.88,109.54
+P200306,2023-12-06,1960-10-29,Patient Qnvtfmx,M,36,101.8,179.1,170/60,121,Covid,Medc,20,7999.32,Yes,No,Pollen,Clinicalnote Xpzetteyht,45.74,209.73
+P200307,2023-07-26,1960-07-12,Patient Wgttb,Other,32,89.0,161.6,157/78,69,Cold,Medb,50,14398.84,No,7 Days,Penicillin,Clinicalnote Mddq,85.4,61.87
+P200308,2023-09-07,1960-07-12,Patient Flnapsavrmaspi,Other,61,92.3,78.9,158/100,96,Hypertension,Medb,5,1209.06,No,14 Days,Pollen,Clinicalnote Pldu R,7.05,11.45
+P200309,2023-06-09,1960-11-24,Patient Yztvju,M,7,86.7,140.9,101/103,111,Hypertension,Meda,100,11496.83,Yes,7 Days,Dust,Clinicalnote Wxiznhmbkqavfoc,62.03,177.25
+P200310,2024-02-04,1960-12-08,Patient Rmktp,Other,27,4.9,176.1,162/102,77,Diabetes,Medc,100,11459.82,No,7 Days,Unknown,Clinicalnote Inorxjutbaomn,98.82,200.56
+P200311,2024-04-06,1960-03-22,Patient Hdpettyh,Other,28,16.5,188.4,96/73,108,Flu,Medd,10,11353.74,Yes,7 Days,Nuts,Clinicalnote Optrdakiv,39.24,237.79
+P200312,2023-08-12,1960-10-14,Patient Cvbtjvtbptaxque,F,43,85.6,190.5,91/61,93,Asthma,Mede,50,4212.22,Yes,1 Month,Dust,Clinicalnote Lzigrtoyukpsfei,86.82,32.66
+P200313,2023-10-04,1960-07-01,Patient Thfm  Gzcysnf,M,46,101.6,88.6,179/94,116,Asthma,Mede,20,13615.9,No,7 Days,Pollen,Clinicalnote Kmiamuvnlfp,65.27,115.0
+P200314,2023-11-03,1960-04-08,Patient Tulzqrhneufwnb,M,83,111.1,113.8,135/79,80,Flu,Medd,50,3231.51,No,No,Unknown,Clinicalnote Epowyexrkrz Aym,37.62,26.48
+P200315,2023-11-01,1960-09-19,Patient Wnqre,M,33,8.7,166.4,104/108,120,Migraine,Medd,50,14224.74,Yes,14 Days,Unknown,Clinicalnote Nltmfmmjrwp,16.69,69.76
+P200316,2023-07-26,1960-04-08,Patient Gjebbvnsop,M,5,45.8,60.5,141/90,82,Migraine,Medc,5,7240.46,Yes,No,Pollen,Clinicalnote Awuosa Lhxbny,2.34,74.94
+P200317,2024-04-16,1960-09-19,Patient Ruqsoeior,M,80,112.3,165.6,133/74,62,Covid,Medb,10,7184.49,Yes,14 Days,Dust,Clinicalnote Ignziwzoyk,35.7,247.07
+P200318,2024-04-02,1960-04-08,Patient Egcoor,F,43,93.0,175.8,159/97,62,Cold,Meda,10,7640.95,Yes,No,Dust,Clinicalnote Kmzchjwdor,34.62,169.44
+P200319,2023-12-26,1960-04-20,Patient Xcmkacg,F,68,115.0,106.4,154/102,61,Flu,Medb,10,11774.38,Yes,No,Pollen,Clinicalnote Szhdis,58.8,46.5
+P200320,2023-10-10,1960-09-19,Patient Gnwuydy,M,68,66.4,187.5,117/77,68,Covid,Meda,10,12270.05,Yes,14 Days,Unknown,Clinicalnote Vufkoaa,44.56,196.16
+P200322,2024-01-23,1960-08-25,Patient Vgknslrkal,Other,49,36.0,105.6,169/77,86,Asthma,Medb,50,9942.32,Yes,No,Nuts,Clinicalnote Yjlxsmscsulqq,37.19,234.69
+P200323,2023-10-10,1960-09-19,Patient Ixcedd,Other,52,49.1,87.9,104/93,53,Fracture,Meda,50,5275.87,No,14 Days,Dust,Clinicalnote Scykpsrl,40.87,97.14
+P200324,2023-11-03,1960-06-18,Patient Zwpmzv,M,30,51.9,130.0,147/98,87,Hypertension,Mede,100,7640.95,Yes,No,Nuts,Clinicalnote Mwsqjn,37.35,219.9
+P200325,2023-12-06,1960-09-19,Patient Ggnarewqmmi,Other,53,56.0,142.4,159/81,102,Migraine,Medb,10,2686.78,No,1 Month,Unknown,Clinicalnote Xninywvg,44.4,216.85
+P200326,2024-02-25,1960-08-17,Patient Dmxgozgonujqze,M,84,96.0,152.5,97/65,54,Migraine,Medb,5,12172.89,Yes,14 Days,Unknown,Clinicalnote Svjqfafohkfy,31.93,61.74
+P200327,2023-07-10,1960-04-08,Patient Grtkuggtupapzz,Other,10,7.3,87.6,122/61,58,Migraine,Mede,10,6786.7,No,14 Days,Nuts,Clinicalnote Hbslk,8.14,169.91
+P200328,2024-04-02,1960-09-19,Patient Eoahgilwaevovh,F,12,84.8,178.3,125/79,59,Asthma,Meda,100,4104.46,Yes,No,Penicillin,Clinicalnote Qtqqcolrhcu,94.17,140.43
+P200329,2024-05-14,1960-09-19,Patient Agzbgqsc,F,43,76.1,176.3,142/81,118,Covid,Medd,20,524.83,Yes,No,Unknown,Clinicalnote Myqkmdhpl,62.86,29.8
+P200330,2023-11-03,1960-01-10,Patient Moedigpexz,F,33,82.0,155.0,141/60,108,Hypertension,Medb,20,10202.32,No,No,Dust,Clinicalnote Mbmrqrsjsl,94.59,11.37
+P200331,2023-10-04,1960-10-31,Patkent Ksreyhgbzpouu,M,50,95.5,52.1,129/78,113,Hypertension,Mede,50,10246.03,No,7 Days,Pollen,Clinicalnote Tyyfrh,6.71,220.01
+P200332,2023-07-26,1960-07-12,Patient Hysysjjqauot,M,46,14.4,151.3,109/108,118,Asthma,Medb,50,14888.58,No,1 Month,Dust,Clinicalnote Ohvifgmniyyip,80.69,165.42
+P200333,2023-10-11,1960-08-31,Patient Ewpjkfv,Other,61,57.7,81.2,125/86,104,Fracture,Medb,50,10062.71,Yes,No,Pollen,Clinicalnote Niboujtwddwt,24.77,186.69
+P200334,2024-01-28,1960-12-08,Patient Xgvlahenfgwab,Other,15,32.0,108.7,140/67,56,Migraine,Mede,100,14447.82,Yes,1 Month,Pollen,Clinicalnote J Kr Dkyuajxqii,57.17,72.56
+P200335,2024-03-26,1960-10-14,Patient Jqodox,Other,33,74.7,144.7,116/89,66,Cold,Medb,5,8709.39,Yes,1 Month,Unknown,Clinicalnote Opnwj,9.11,56.28
+P200336,2023-11-29,1960-07-08,Patient Tsdcxfytguba,F,39,50.5,78.3,142/97,72,Migraine,Medc,5,13002.59,No,1 Month,Penicillin,Clinicalnote Njxwqibhsr,17.26,118.71
+P200337,2023-07-10,1960-03-16,Patient Hitqfqenbycpez,M,30,22.3,129.2,101/65,125,Fracture,Mede,5,8829.02,Yes,7 Days,Unknown,Clinicalnote Yyfwenr,62.81,201.02
+P200338,2024-01-28,1960-10-17,Patient Vszmfucmw,Other,42,79.1,172.9,175/73,68,Hypertension,Medb,20,12010.83,No,7 Days,Pollen,Clinicalnote Zlvwrzahxdx,93.26,247.23
+P200339,2023-10-04,1960-09-26,Patient Ftmdofps,F,84,84.7,145.7,95/71,60,Migraine,Mede,5,12353.24,No,7 Days,Pollen,Clinicalnote Vlxn Ey,36.7,67.79
+P200340,2024-04-06,1960-10-10,Patient Qcsatvwbebr,F,4,62.5,55.6,131/81,71,Cold,Medc,10,4214.11,Yes,1 Month,Penicillin,Clinicalnote Skbydegtpxcyux,66.98,71.14
+P200341,2023-12-26,1960-06-09,Patient Phjdyewebwh,Other,59,37.1,66.7,175/102,110,Diabetes,Mede,50,1105.16,No,1 Month,Unknown,Clinicalnote Hqhsmngvyahgh,61.91,215.24
+P200342,2024-01-28,1960-04-08,Patient Isjfjfh,Other,60,119.3,167.4,95/102,57,Cold,Medb,5,10280.48,Yes,No,Pollen,Clinicalnote Zjicuojb Fopag,10.12,60.67
+P200343,2023-07-31,1960-07-03,Patient U K Lm V,Other,62,32.9,108.3,137/68,99,Hypertension,Medc,10,5921.86,No,14 Days,Pollen,Clinicalnote O Qmvhiyvggnmg,67.53,87.25
+P200344,2024-01-28,1960-09-19,Patient Fkl Hy,Other,41,4.9,108.7,178/104,72,Cold,Medb,50,11292.64,No,1 Month,Dust,Clinicalnote Jpntmzbl,80.61,89.18
+P200345,2024-01-02,1960-07-12,Patient Hzetwtihqy,Other,14,42.6,109.4,146/100,53,Migraine,Medc,50,2463.66,No,7 Days,Unknown,Clinicalnote Dorws Nq,3.38,12.3
+P200346,2023-10-04,1960-10-25,Patient Ufuyaagewvavu,F,20,62.3,120.0,140/61,87,Covid,Medb,20,12418.74,Yes,No,Unknown,Clinicalnote Nhybfporm,8.74,231.94
+P200347,2024-03-11,1960-11-21,Patient Bqikcu,Other,72,84.4,100.1,169/107,109,Covid,Meda,50,2356.02,Yes,1 Month,Pollen,Clinicalnote Ttnup,73.41,178.49
+P200348,2023-11-19,1960-07-12,Patient Zfqbi,F,45,96.1,144.2,95/81,104,Covid,Mede,100,1749.73,Yes,1 Month,Nuts,Clinicalnote Xvpzmuxbahm,0.2,158.54
+P200349,2023-11-29,1960-07-08,Patient Devtlex,F,85,93.6,158.8,133/75,99,Migraine,Mede,100,12433.71,Yes,7 Days,Nuts,Clinicalnote Rwneffcztfi,46.46,247.28
+P200350,2024-04-06,1960-10-10,Patient Ahkfxfipq,M,65,88.6,55.1,131/64,54,Cold,Medc,20,505.93,No,1 Month,Dust,Clinicalnote Jatlcizxg,64.51,111.87
+P200351,2024-03-11,1960-04-20,Patient Yclozuxsuloxhxq,Other,4,87.5,60.4,130/92,122,Fracture,Medb,5,5734.15,No,1 Month,Pollen,Clinicalnote Qqluma,13.58,94.58
+P200352,2023-07-26,1960-10-25,Patient Nundpxbhbziw,F,87,49.4,78.3,157/71,57,Migraine,Medd,10,3542.63,Yes,No,Penicillin,Clinicalnote Ubxcake,33.68,36.13
+P200353,2024-05-13,1960-11-16,Patient Igbawypylmymnj,M,78,71.9,83.3,124/60,58,Asthma,Medc,10,5979.32,No,14 Days,Penicillin,Clinicalnote Vjurbjwhuhtsaa,81.18,85.95
+P200355,2023-11-03,1960-07-12,Patient Dlmls,M,64,97.8,153.9,140/101,66,Flu,Medc,50,13647.39,Yes,7 Days,Nuts,Clinicalnote Krzkuhdhynkhqc,27.19,152.41
+P200356,2023-11-29,1960-10-17,Patient Ubfqusmhrfvz,F,86,29.2,157.5,134/60,95,Fracture,Medc,20,3611.56,No,7 Days,Penicillin,Clinicalnote Wchwnqlmnwg,65.99,164.13
+P200357,2024-05-29,1960-07-08,Patient Fauhjhnxzc,M,1,4.5,151.1,90/62,80,Hypertension,Medc,5,13171.82,No,No,Nuts,Clinicalnote Igwbyvhccad Yq,97.12,114.8
+P200358,2023-11-03,1960-07-12,Patient Xwqorchmxl,F,44,74.4,80.6,170/101,106,Migraine,Mede,10,14787.59,Yes,No,Unknown,Clinccalnote Bhmkcqzic,80.33,229.54
+P200359,2023-10-04,1960-09-04,Patient Wsgrenxphu Rl,F,76,30.6,162.0,96/68,51,Asthma,Meda,10,14618.34,Yes,1 Month,Nuts,Clinicalnote Vtcdm Rq,25.57,101.04
+P200360,2023-07-26,1960-09-19,Patient Lasznb,M,47,77.5,74.2,125/67,104,Asthma,Medb,100,8561.69,No,14 Days,Nuts,Clinicalnote Aqnreogh,86.2,209.97
+P200361,2024-04-06,1960-09-19,Patient Iykfny,M,79,87.1,144.0,135/73,56,Fracture,Medb,20,340.18,Yes,14 Days,Dust,Clinicalnote Cotqthv,36.68,159.15
+P200362,2023-11-03,1960-04-24,Patient Arhztfhtzmapt,F,9,26.4,166.8,169/108,63,Asthma,Medd,10,5848.74,Yes,7 Days,Penicillin,Clinicalnote Sftrg,44.21,55.57
+P200363,2024-04-13,1960-12-08,Patient Efapyhkvtpmwdra,F,73,49.9,88.6,97/100,112,Fracture,Meda,50,8217.2,No,No,Pollen,Clinicalnote Tvauzwsnqvvtlwz,1.39,94.52
+P200364,2024-01-02,1960-07-12,Patient Ghcoiueknwb,M,56,26.7,83.3,178/92,57,Diabetes,Mede,50,3279.11,Yes,1 Month,Penicillin,Clinicalnote Xzrglnmssglee,73.07,233.2
+P200366,2023-11-29,1960-07-12,Patient Nkuq Easekioedo,F,48,67.4,58.0,135/90,126,Asthma,Medc,20,1434.11,No,No,Dust,Clinicalnote Ylayejm,12.74,63.19
+P200367,2023-09-29,1960-03-26,Patient Z Dvcpqimubegy,Other,50,75.4,76.8,91/66,128,Diabetes,Meda,5,7992.03,Yes,14 Days,Pollen,Zlinicalnote Iqhbxktf,77.18,236.87
+P200369,2024-04-09,1960-09-19,Patient Reaj Gnhjqfh,Other,66,40.6,75.3,172/72,97,Cold,Medc,20,3044.25,No,14 Days,Pollen,Clinicalnote Mkjojsf,71.78,132.54
+P200371,2024-03-26,1960-12-08,Patient Niqmhbb,Other,40,68.7,74.3,132/90,126,Migraine,Meda,5,9090.47,No,1 Month,Pollen,Clinicalnote Sdbhhfwriqiu,78.38,47.86
+P200372,2023-11-03,1960-04-08,Patienh Prxuqgeehoxwrm,Other,69,104.5,161.0,110/66,84,Cold,Medd,10,6568.94,No,7 Days,Penicillin,Clgnicalnote Ppndastggayflf,32.62,121.09
+P200373,2024-05-03,1960-07-12,Patient Wtzxgxwwdvm,Other,81,47.2,152.3,100/61,67,Migraine,Meda,20,7640.95,No,No,Unknown,Clinicalnote Mynccjbzdj,23.78,79.98
+P200374,2024-05-13,1960-09-19,Patient Jkplxh,M,42,88.9,142.4,92/88,61,Diabetes,Meda,100,11543.19,No,7 Days,Nuts,Clinicalnote Rdzkyrc,61.72,236.19
+P200375,2024-04-13,1960-10-10,Patient Yephdhqzbk,M,28,11.2,55.1,163/101,118,Migraine,Medd,20,7261.54,No,1 Month,Dust,Clinicalnote Rmtrsyxycjf,24.16,245.84
+P200376,2024-04-06,1960-04-08,Patient Arbojrkfltjlue,M,2,58.4,52.8,159/94,74,Covid,Meda,50,7015.8,Yes,14 Days,Dust,Clinicalnote Uhxgafupckwbaxw,14.51,1.0
+P200377,2023-10-04,1960-12-08,Patient Kbrart,F,75,37.5,69.6,172/74,93,Covid,Mede,100,5962.76,No,1 Month,Nuts,Clinicalnote Ilitin Qaxmp Fo,26.92,213.05
+P200378,2023-11-29,1960-03-18,Patient Dbzgonsxdnk,Other,5,65.7,66.5,165/86,83,Flu,Medb,5,12052.89,Yes,14 Days,Dust,Clificalnote Jyfavtjuulwz,83.18,171.41
+P200379,2023-08-27,1960-11-22,Patient Kmahfwobitf,Other,7,107.6,193.1,178/99,118,Covid,Medc,10,7205.35,No,14 Days,Dust,Clinicalnote Zqblertnoxni,20.55,57.4
+P200380,2023-10-10,1960-03-31,Patient Xpnkoflvexpty,M,59,9.4,80.5,124/91,114,Diabetes,Mede,10,3712.11,No,1 Month,Penicillin,Clinicalnote Alnqidxncrp,85.06,184.15
+P200382,2023-07-20,1960-10-10,Patient Uopeik Dsk,M,87,45.2,162.6,109/85,70,Covid,Medd,100,626.75,No,14 Days,Dust,Clinicalnote Cmqhhouns,64.73,114.75
+P200383,2024-02-09,1960-09-19,Patient Mufxaztnhkd,M,27,109.4,166.4,118/66,69,Fracture,Medb,50,13007.97,No,1 Month,Penicillin,Clinicalnote Cgdpatbhbfjzun,40.33,114.78
+P200384,2023-12-16,1960-12-12,Patient Liudxw,Other,1,83.1,64.8,139/78,62,Diabetes,Medb,5,3610.1,No,14 Days,Pollen,Clinicalnote Elmgdzyolac,12.0,183.26
+P200385,2024-01-28,1960-07-12,Patient Lvzabfyhfii,Other,47,82.0,118.9,148/97,107,Diabetes,Meda,50,11043.85,Yes,14 Days,Penicillin,Clinicalnote Njlirxcazfj,56.14,57.88
+P200387,2023-11-03,1960-07-12,Patient Jxnowujnboivdja,M,67,86.2,144.6,167/89,53,Cold,Medd,5,7854.64,Yes,14 Days,Penicillin,Clinicalnote Icqfidpimqp,2.37,111.29
+P200388,2024-03-23,1960-12-08,Patient Peifnshqf,M,29,13.7,93.6,122/74,102,Asthma,Meda,5,12756.68,No,1 Month,Unknown,Clinicalnote Ddpjdejrlfbzi,14.92,241.16
+P200389,2024-03-11,1960-01-11,Patient Zsucdmoc,Other,8,88.8,82.7,161/101,117,Diabetes,Meda,50,13360.23,No,14 Days,Penicillin,Clinicalnote  Ffgznwri,51.27,242.39
+P200390,2023-07-26,1960-10-14,Patient Tgwydgcllfpiz,M,36,80.3,151.2,158/81,62,Diabetes,Meda,50,5510.95,No,7 Days,Unknown,Clinicalnote Ktdck Tmdr,54.3,153.42
+P200391,2023-11-03,1960-09-19,Patient Nkspdhlfzjw,M,78,86.0,72.4,159/81,105,Asthma,Medb,20,1805.75,Yes,No,Penicillin,Clinicalnote Mdqzugxigjlpev,25.1,231.01
+P200392,2023-10-10,1960-08-20,Patient Gfgqutw,Other,82,105.0,93.9,105/109,116,Diabetes,Medd,10,9520.59,No,No,Unknown,Clinicalnote Sjpt Zezatdolok,48.7,152.47
+P200393,2024-01-22,1960-07-12,Patient Ubdhgwsgbxvd,F,81,102.6,165.3,110/67,120,Covid,Medb,10,9020.45,No,1 Month,Nuts,Clinicalnote Uoqwbnrajwgom,15.99,6.22
+P200394,2023-10-10,1960-07-12,Patient Aukfj,M,22,47.4,94.9,100/82,107,Covid,Meda,100,11057.14,No,No,Nuts,Clinicalnote Supttnobhtswfl,53.48,20.18
+P200395,2023-07-20,1960-07-12,Patient Lsvnsyuvmrf,F,41,5.0,63.1,91/95,66,Migraine,Medd,5,10299.56,No,1 Month,Dust,Clinicalnote Cpzcuekvwgs,56.39,144.08
+P200396,2024-01-10,1960-04-08,Patient Vjfijztfi,F,26,117.4,52.6,123/108,82,Fracture,Medb,10,4693.83,Yes,7 Days,Unknown,Clinicalnote Euyfzzqoiipyn,15.9,39.4
+P200397,2023-07-26,1960-08-31,Patient Ventqjkyce,Other,33,50.5,185.2,141/68,93,Cold,Mede,10,4624.08,No,No,Nuts,Cyinicalnote Rzo  Dkkokjbhn,96.3,64.54
+P200398,2024-04-06,1960-09-19,Patient Mfasukuvd,M,23,48.3,78.0,97/100,70,Diabetes,Meda,50,12821.21,Yes,7 Days,Pollen,Clinicalnote Qrljzcnegce,79.78,51.79
+P200399,2024-02-06,1960-10-17,Patient Trvpnobhfentzi,Other,34,102.2,108.5,177/104,119,Diabetes,Medb,20,6939.94,No,1 Month,Penicillin,Clinicalnote Yzfsnkxqhyxrvak,98.52,61.99
