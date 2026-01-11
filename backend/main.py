@@ -14,6 +14,12 @@ from datetime import datetime
 from contextlib import asynccontextmanager
 
 from data_processor import process_dataset, get_correlation_matrix, get_column_stats, generate_pdf_report
+@app.get("/")
+def health_check():
+    return {
+        "status": "ok",
+        "service": "InfoPulse AI Backend"
+    }
 
 # --- Configuration ---
 UPLOAD_DIR = "uploaded_files"
